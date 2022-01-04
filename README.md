@@ -2,6 +2,8 @@
 
 # <div align="center"><img src="Yoshitha Rathnayake 2.png" height="250px" alt="Yoshitha Rathnayake"></div>
 
+[![Followers](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#Followers-)
+
 <a href="https://github.com/Yoshitha-SACK">@Yoshitha-SACK<a>
 
 > Hi, I am Yoshitha Rathnayake. This is my personal portfolio.
