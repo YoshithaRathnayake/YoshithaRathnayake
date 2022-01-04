@@ -21,7 +21,7 @@
 
 > I am observing Buddhism as my religion.
 
-> I live in Kandy District, Central Province, Sri Lanka 🇱🇰. 
+> I live in Kandy District, Central Province, Sri Lanka. 
 
 > I am playing Badminton 🏸 in my school as my favourite sport.
 
@@ -29,7 +29,7 @@
 
 > I am a Volkswagen car lover.
 
-> I am proud to say that I am a Sri Lankan 🇱🇰, Buddhist and Antonian.
+> I am proud to say that I am a Sri Lankan, Buddhist and Antonian.
 
 
 # What can I do ?
