@@ -1,6 +1,6 @@
 # <div align="center"><a href="https://yoshitharathnayake.w3spaces.com/YOSHITHA_RATHNAYAKE.html"><b><i>Yoshitha Rathnayake</i></b></a></div>
 
-# <div align="center"><img src="Yoshitha2.png" height="250px" alt="Yoshitha Rathnayake"></div>
+# <div align="center"><img src="Yoshitha Rathnayake 2.png" height="250px" alt="Yoshitha Rathnayake"></div>
 
 <a href="https://github.com/Yoshitha-SACK">@Yoshitha-SACK<a>
 
