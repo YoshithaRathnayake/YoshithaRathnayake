@@ -7,7 +7,7 @@
 > Hi, I am Yoshitha Rathnayake. This is my personal portfolio.
 
 
-## About Me
+# About Me
 
 > I am <a href="https://yoshitharathnayake.w3spaces.com/YOSHITHA_RATHNAYAKE.html"><b><i>Yoshitha Rathnayake.</i></b></a>
 
