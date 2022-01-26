@@ -2,7 +2,7 @@
  
 # <div align="center"><img src="Yoshitha Rathnayake 2.png" height="250px" alt="Yoshitha Rathnayake"></div>
 
-# ![GitHub followers](https://img.shields.io/github/followers/yoshitha-sack?logo=GitHub&style=for-the-badge)
+# ![GitHub followers](https://img.shields.io/github/followers/yoshitharathnayake?logo=GitHub&style=for-the-badge)
 
 <a href="https://github.com/Yoshitha-SACK">@Yoshitha-SACK<a>
 
