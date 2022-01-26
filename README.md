@@ -4,7 +4,7 @@
 
 # ![GitHub followers](https://img.shields.io/github/followers/yoshitharathnayake?logo=GitHub&style=for-the-badge)
 
-<a href="https://github.com/YoshithaRathnayake">@Yoshitha-SACK<a>
+<a href="https://github.com/YoshithaRathnayake">@YoshithaRathnayake<a>
 
 > Hi, I am Yoshitha Rathnayake. This is my personal portfolio.
 
