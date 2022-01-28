@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://yoshitharathnayake.w3spaces.com/Index.html"><b><i>Yoshitha Rathnayake</i></b></a></div>      
+# <div align="center"><a href="https://yoshitharathnayake.w3spaces.com/Index.html"><b><i>Yoshitha Rathnayake</i></b></a></div>       
  
 # <div align="center"><img src="Yoshitha Rathnayake 2.png" height="250px" alt="Yoshitha Rathnayake"></div>
 
