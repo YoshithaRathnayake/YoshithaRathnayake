@@ -106,7 +106,15 @@
   
   
 <a href=" https://chat.whatsapp.com/KRqihLP7J7HEpM2dL6Zwt9" ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp Icon" /></a>    <a href="https://t.me/joinchat/hP-WbTXCf185YTg1" ><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram Icon" /></a>   <a href="https://github.com/YoshithaRathnayake" ><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="Git Hub Icon" /></a>    <a href="https://gitlab.com/Yoshitha-SACK" ><img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Git Lab Icon"/></a>    <a href="https://twitter.com/YoshithaSenesh" ><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="Twitter Icon" /></a>     <a href="https://www.instagram.com/yoshitha_rathnayake/" ><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram Icon" /></a>
-
+ 
+ 
+#
+ <p align="center">
+  <img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=yoshitharathnayake&show_icons=true&count_private=true" />
+  <img align="middle" alt="mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshitharathnayake&layout=compact&count_private=true" />
+</p>
+ 
+#
 **Visitors Count**
   
 ![VisitorCount](https://profile-counter.glitch.me/{yoshitharathnayake2008}/count.svg)
