@@ -79,7 +79,7 @@
 <img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>
     
     
-> Game Developing with RPG Maker MV (Software)
+> Game Developing with RPG Maker MV (Software) 
 
 
 <a href="https://www.rpgmakerweb.com/products/rpg-maker-mv"><img src="https://www.autotechint.com/wp-content/uploads/rpg-maker-mv-icon-32.png" height="42px"><a>
