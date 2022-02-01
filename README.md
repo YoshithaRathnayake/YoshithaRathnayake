@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://yoshitharathnayake.github.io/Yoshitha-Site/"><b><i>YOSHITHA RATHNAYAKE</i></b></a></div> 
+# <div align="center"><a href="https://yoshitharathnayake.github.io/Yoshitha-Site/"><b><i>YOSHITHA RATHNAYAKE</i></b></a></div>
  
 # <div align="center"><img src="Yoshitha Rathnayake 2.png" height="250px" alt="Yoshitha Rathnayake"></div>
 
