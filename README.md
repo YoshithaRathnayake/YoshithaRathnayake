@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://yoshitharathnayake.w3spaces.com/Index.html"><b><i>YOSHITHA RATHNAYAKE</i></b></a></div> 
+# <div align="center"><a href="https://yoshitharathnayake.github.io/Yoshitha-Site/"><b><i>YOSHITHA RATHNAYAKE</i></b></a></div> 
  
 # <div align="center"><img src="Yoshitha Rathnayake 2.png" height="250px" alt="Yoshitha Rathnayake"></div>
 
@@ -15,7 +15,7 @@
 
 # About Me
 
-> I am <a href="https://yoshitharathnayake.w3spaces.com/YOSHITHA_RATHNAYAKE.html"><b><i>Yoshitha Rathnayake.</i></b></a>
+> I am <a href="https://yoshitharathnayake.github.io/Yoshitha-Site/"><b><i>Yoshitha Rathnayake.</i></b></a>
 
 > I am a Student, Software Developer, Programmer, Web Developer, Game Developer, Video Editor, Photo Editor and a badminton player.
 
@@ -34,6 +34,8 @@
 > I am a member of <a href="https://github.com/acf-sack"><b><i>ACF Committee</i></b></a> in our school and also a memeber of <a href="https://sefglobal.org/"><b><i>Sustainable Education Foundation (SEF).</i></b></a>
 
 > I am a Volkswagen car lover.
+ 
+> I hope to be a <b><i>Computer Engineer 💻 </i></b> in the future.
 
 > I am proud to say that I am a Sri Lankan, Buddhist and Antonian.
 
