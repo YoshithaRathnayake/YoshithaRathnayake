@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://yoshitharathnayake.github.io/Yoshitha-Site/"><b><i>YOSHITHA RATHNAYAKE</i></b></a></div>
+# <div align="center"><a href="https://www.YoshithaRathnayake.tk"><b><i>YOSHITHA RATHNAYAKE</i></b></a></div>
  
 # <div align="center"><img src="Yoshitha Rathnayake 2.png" height="250px" alt="Yoshitha Rathnayake"></div>
 
@@ -15,7 +15,7 @@
 
 # About Me
 
-> I am <a href="https://yoshitharathnayake.github.io/Yoshitha-Site/"><b><i>Yoshitha Rathnayake.</i></b></a>
+> I am <a href="https://www.YoshithaRathnayake.tk"><b><i>Yoshitha Rathnayake.</i></b></a>
 
 > I am a Student, Software Developer, Programmer, Web Developer, Game Developer, Video Editor, Photo Editor and a badminton player.
 
