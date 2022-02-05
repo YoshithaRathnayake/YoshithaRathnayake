@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://www.YoshithaRathnayake.tk"><b><i>YOSHITHA RATHNAYAKE</i></b></a></div>
+# <div align="center"><a href="https://www.Yoshitha.tk"><b><i>YOSHITHA RATHNAYAKE</i></b></a></div>
  
 # <div align="center"><img src="Yoshitha Rathnayake 2.png" height="250px" alt="Yoshitha Rathnayake"></div>
 
@@ -15,7 +15,7 @@
 
 # About Me
 
-> I am <a href="https://www.YoshithaRathnayake.tk"><b><i>Yoshitha Rathnayake.</i></b></a>
+> I am <a href="https://www.Yoshitha.tk"><b><i>Yoshitha Rathnayake.</i></b></a>
 
 > I am a Student, Software Developer, Programmer, Web Developer, Game Developer, Video Editor, Photo Editor and a badminton player.
 
@@ -105,7 +105,7 @@
   
 > Phone Number :- <b><i>+94767073488</i></b>
   
-> Email :- <a href="https://mail.google.com/mail/u/0/?fs=1&to=y.s.b.rathnayake2008@gmail.com&tf=cm" ><b><i>Y.S.B.Rathnayake2008@gmail.com</i></b></a>
+> Email :- <a href="mailto:YoshithaRathnayake@yoshitha.tk" ><b><i>YoshithaRathnayake@yoshitha.tk</i></b></a>
   
   
 # Follow Me
