@@ -105,7 +105,7 @@
   
 > Phone Number :- <a href="tel:+94 076 707 3488"><b><i>+94 076 707 3488</i></b></a>
   
-> Email :- <a href="mailto:YoshithaRathnayake@yoshitha.tk" ><b><i>YoshithaRathnayake@yoshitha.tk</i></b></a>
+> Email :- <a href="mailto:YoshithaRathnayake@yoshitha.tk"><b><i>YoshithaRathnayake@yoshitha.tk</i></b></a>
   
   
 # Follow Me
