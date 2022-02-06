@@ -80,7 +80,7 @@
     
 > Photo Editing with Adobe Photoshop, Microsoft Photos (Softwares)
     
-<a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.icons8.com/color-glass/50/4a90e2/adobe-photoshop.png"/></a> 
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg"/></a> 
 <img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>
  
 > Graphic Designing with Adobe Illustrator, Blender (Softwares)
