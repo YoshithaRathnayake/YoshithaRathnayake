@@ -116,7 +116,7 @@
   
 > Email :- <a href="mailto:YoshithaRathnayake@yoshitha.tk"><b><i>YoshithaRathnayake@yoshitha.tk</i></b></a>
  
-> Google Developer :- g.dev/YoshithaRathnayake
+> Google Developer :- <a href="https://developers.google.com/u/YoshithaRathnayake"><b><i>g.dev/YoshithaRathnayake</i></b></a>
   
   
 # Follow Me
