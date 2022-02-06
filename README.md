@@ -81,7 +81,7 @@
 > Photo Editing with Adobe Photoshop, Microsoft Photos (Softwares)
     
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.icons8.com/color-glass/50/4a90e2/adobe-photoshop.png"/></a> 
-<img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>     <a href=""><img src="https://store-images.s-microsoft.com/image/apps.44787.9007199266243449.90709ce3-050c-4cef-8d4a-9ef213b89ef2.32b08d5f-de67-474b-a4b4-9840f42f3488?mode=scale&q=90&h=200&w=200&background=%230078D7"></a>
+<img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>     <a href=""><img src=""></a>
     
     
 > Game Developing with RPG Maker MV (Software) 
