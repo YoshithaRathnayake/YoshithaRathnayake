@@ -25,7 +25,7 @@
  
 > I am a Developer of Google (<a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i> g.dev/YoshithaRathnayake </i></b></a>)
  
-> I am a member of <a href="https://medium.com/"><b><i>Medium</i></b> <a href="https://yoshitharathnayake.medium.com/"><b><i> yoshitharathnayake.medium.com </i></b></a>)
+> I am a member of <a href="https://medium.com/"><b><i>Medium</i></b></a> (<a href="https://yoshitharathnayake.medium.com/"><b><i> yoshitharathnayake.medium.com </i></b></a>)
 
 > My favourite subject is ICT.
 
