@@ -68,15 +68,15 @@
 
 <a href="https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3?activetab=pivot:overviewtab"><img src="https://www.file-extensions.org/imgs/app-icon/128/759/microsoft-windows-notepad-icon.png" height="45px"><a>    <a href="https://notepad-plus-plus.org/downloads/"><img src="https://img.icons8.com/fluency/48/000000/notepad-plus-plus.png"/><a>  <a href="https://code.visualstudio.com/Download"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/><a>    <a href="https://www.jetbrains.com/idea/download/?fromIDE=#section=windows"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/><a>   <a href="https://www.jetbrains.com/pycharm/download/#section=windows"><img src="https://img.icons8.com/color/48/000000/pycharm.png"/><a>
 
+ 
 > Web Designing with HTML, CSS, JavaScript, Bootstrap, Python (Programming Languages) 
-
 
 <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><a>    <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/><a>    <a href="https://www.w3schools.com/js/"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><a>    <a href="https://www.w3schools.com/bootstrap/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><a>   <a href="https://www.w3schools.com/python/"><img src="https://img.icons8.com/fluency/48/000000/python.png"/><a>
         
 
 > Video Editing with Adobe Premiere Pro, Wonershare Filmora, Microsoft Video Editor, Movie Maker (Softwares)
     
-<a href="https://www.adobe.com/products/premiere.html"><img src="https://img.icons8.com/material/52/4a90e2/adobe-premiere-pro.png"/></a>     <a href="https://filmora.wondershare.com/"><img src="https://img.icons8.com/color/50/000000/filmora.png"/></a>     <img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>     <img src="https://img.icons8.com/fluency/50/4a90e2/windows-movie-maker.png"/>
+<a href="https://www.adobe.com/products/premiere.html"><img src="https://www.adobe.com/content/dam/cct/creativecloud/business/teams/free-trial-new/desktop_premiere.svg"/></a>     <a href="https://filmora.wondershare.com/"><img src="https://img.icons8.com/color/50/000000/filmora.png"/></a>     <img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>     <img src="https://img.icons8.com/fluency/50/4a90e2/windows-movie-maker.png"/>
  
  
 > Photo Editing with Adobe Photoshop, Microsoft Photos (Softwares)
