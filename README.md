@@ -88,7 +88,7 @@
 > Graphic Designing with Adobe Illustrator, Blender (Softwares)
     
 <a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" height="43px"/></a> 
-<img src="https://www.blender.org/wp-content/themes/bthree/assets/images/favicon.ico?x79440"/>
+<img src="https://www.blender.org/wp-content/themes/bthree/assets/images/favicon.ico?x79440" height="43px"/>
     
     
 > Game Developing with RPG Maker MV (Software) 
