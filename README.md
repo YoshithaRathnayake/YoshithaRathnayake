@@ -77,15 +77,17 @@
 > Video Editing with Adobe Premiere Pro, Wonershare Filmora, Microsoft Video Editor, Movie Maker (Softwares)
     
 <a href="https://www.adobe.com/products/premiere.html"><img src="https://img.icons8.com/material/52/4a90e2/adobe-premiere-pro.png"/></a>     <a href="https://filmora.wondershare.com/"><img src="https://img.icons8.com/color/50/000000/filmora.png"/></a>     <img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>     <img src="https://img.icons8.com/fluency/50/4a90e2/windows-movie-maker.png"/>
-    
+ 
+ 
 > Photo Editing with Adobe Photoshop, Microsoft Photos (Softwares)
     
-<a href="https://www.adobe.com/products/photoshop.html"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg"/></a> 
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" height="40px"/></a> 
 <img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>
+ 
  
 > Graphic Designing with Adobe Illustrator, Blender (Softwares)
     
-<a href="https://www.adobe.com/products/photoshop.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" height="43px"/></a> 
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" height="40px"/></a> 
 <img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>
     
     
