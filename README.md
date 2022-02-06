@@ -74,10 +74,9 @@
 <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><a>    <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/><a>    <a href="https://www.w3schools.com/js/"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><a>    <a href="https://www.w3schools.com/bootstrap/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><a>   <a href="https://www.w3schools.com/python/"><img src="https://img.icons8.com/fluency/48/000000/python.png"/><a>
         
 
-> Video Editing with Adobe Premiere Pro, Microsoft Video Editor, Movie Maker (Softwares)
+> Video Editing with Adobe Premiere Pro, Wonershare Filmora, Microsoft Video Editor, Movie Maker (Softwares)
     
-<a href="https://www.adobe.com/products/premiere.html"><img src="https://img.icons8.com/material/52/4a90e2/adobe-premiere-pro.png"/></a> 
-<img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>     <img src="https://img.icons8.com/fluency/50/4a90e2/windows-movie-maker.png"/>
+<a href="https://www.adobe.com/products/premiere.html"><img src="https://img.icons8.com/material/52/4a90e2/adobe-premiere-pro.png"/></a>     <a href="https://filmora.wondershare.com/"><img src="https://img.icons8.com/color/50/000000/filmora.png"/></a>     <img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>     <img src="https://img.icons8.com/fluency/50/4a90e2/windows-movie-maker.png"/>
     
 > Photo Editing with Adobe Photoshop, Microsoft Photos (Softwares)
     
