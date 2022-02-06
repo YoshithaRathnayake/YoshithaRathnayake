@@ -31,7 +31,7 @@
 
 > I am observing Buddhism as my religion.
 
-> I live in Kandy District, Central Province, Sri Lanka. 
+> I live in Kandy District, Central Province, Sri Lanka.
 
 > I am playing Badminton 🏸 in my school as my favourite sport.
 
