@@ -82,6 +82,11 @@
     
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.icons8.com/color-glass/50/4a90e2/adobe-photoshop.png"/></a> 
 <img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>
+ 
+> Graphic Designing with Adobe Illustrator, Blender (Softwares)
+    
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/></a> 
+<img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>
     
     
 > Game Developing with RPG Maker MV (Software) 
