@@ -68,7 +68,6 @@
 <a href="https://www.microsoft.com/en-us/edge?r=1"><img src="https://img.icons8.com/color/48/4a90e2/ms-edge-new.png"/></a>      <a href="https://www.google.com/chrome/"><img src="https://img.icons8.com/fluency/48/4a90e2/chrome.png"/></a>       <a href="https://www.mozilla.org/en-US/exp/firefox/new/"><img src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg" height="43px"/></a>       <a href="https://www.opera.com/download"><img src="https://img.icons8.com/color/48/4a90e2/opera--v1.png"/></a>      <a href="https://support.apple.com/downloads/safari"><img src="https://img.icons8.com/color/48/4a90e2/safari--v1.png"/></a>
   
  
- 
 > Web Designing with Notepad, Notepad++, Visual Studio Code, IntelliJ, Pycharm (Softwares)
 
 
