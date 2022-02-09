@@ -98,7 +98,7 @@
 > UI and UX Designing with Figma, Adobe Illustrator (Software) 
 
 
-<a href="https://www.figma.com/"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/><a>       <a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" height="43px"/></a>      <img src="https://www.adobe.com/content/dam/cc/us/en/products/xd/max2021-home/Adobe-XD-Logo-White.svg">
+<a href="https://www.figma.com/"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/><a>       <a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" height="43px"/></a>
  
  
 > Game Developing with RPG Maker MV (Software) 
