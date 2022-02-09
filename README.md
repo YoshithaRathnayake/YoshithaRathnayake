@@ -98,7 +98,7 @@
 > UI and UX Designing with Figma, Adobe Illustrator (Software) 
 
 
-<a href="https://www.rpgmakerweb.com/products/rpg-maker-mv"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/><a>
+<a href="https://www.figma.com/"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/><a>
  
  
 > Game Developing with RPG Maker MV (Software) 
