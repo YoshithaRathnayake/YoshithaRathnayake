@@ -93,7 +93,13 @@
 <a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" height="43px"/></a> 
 <a href="https://www.blender.org/"><img src="https://img.icons8.com/color/48/000000/blender-3d.png"/></a>
     
-    
+ 
+> UI and UX Designing with Figma, Adobe Illustrator (Software) 
+
+
+<a href="https://www.rpgmakerweb.com/products/rpg-maker-mv"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/><a>
+ 
+ 
 > Game Developing with RPG Maker MV (Software) 
 
 
