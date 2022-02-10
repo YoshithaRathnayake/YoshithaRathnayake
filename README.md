@@ -110,7 +110,7 @@
 > Audio Editing with Audacity, Adobe Audition (Softwares) 
 
 
-<a href="https://www.audacityteam.org/"><img src="https://www.audacityteam.org/wp-content/themes/wp_audacity/img/logo.png" height="43px"/><a>       <a href="https://www.gitlab.com/YoshithaRathnayake"><img src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
+<a href="https://www.audacityteam.org/"><img src="https://www.audacityteam.org/wp-content/themes/wp_audacity/img/logo.png" height="43px"/><a>       <a href="https://www.gitlab.com/YoshithaRathnayake"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/audition.svg"/></a>
  
  
 > Game Developing with RPG Maker MV (Software) 
