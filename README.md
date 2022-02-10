@@ -86,7 +86,7 @@
  
 > Photo Editing with Adobe Photoshop, Microsoft Photos (Softwares)
     
-<a href="https://www.adobe.com/products/photoshop.html"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" height="43px"/></a>        <a href="https://www.adobe.com/products/photoshop-express.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop-express.svg" height="43px"></a>     <img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" height="43px"/></a>       <a href="https://www.adobe.com/products/photoshop-lightroom.html"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" height="43px"/></a>       <a href="https://www.adobe.com/products/photoshop-express.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop-express.svg" height="43px"></a>     <img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>
  
  
 > Graphic Designing with Adobe Illustrator, Blender (Softwares)
