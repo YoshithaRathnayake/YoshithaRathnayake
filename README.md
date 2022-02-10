@@ -81,7 +81,7 @@
 
 > Video Editing with Adobe Premiere Pro, Wonershare Filmora X, Microsoft Video Editor, Movie Maker (Softwares)
     
-<a href="https://www.adobe.com/products/premiere.html"><img src="https://www.adobe.com/content/dam/cct/creativecloud/business/teams/free-trial-new/desktop_premiere.svg" height="43px"/></a>     <a href="https://filmora.wondershare.com/"><img src="https://img.icons8.com/color/50/000000/filmora.png"/></a>     <img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>     <img src="https://img.icons8.com/fluency/50/4a90e2/windows-movie-maker.png"/>      <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" height="43px"/></a> 
+<a href="https://www.adobe.com/products/premiere.html"><img src="https://www.adobe.com/content/dam/cct/creativecloud/business/teams/free-trial-new/desktop_premiere.svg" height="43px"/></a>      <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" height="43px"/></a>      <a href="https://filmora.wondershare.com/"><img src="https://img.icons8.com/color/50/000000/filmora.png"/></a>     <img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>     <img src="https://img.icons8.com/fluency/50/4a90e2/windows-movie-maker.png"/>
  
  
 > Photo Editing with Adobe Photoshop, Microsoft Photos (Softwares)
