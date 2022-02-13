@@ -30,5 +30,3 @@ The purpose of this Pull Request is to fix #<issue-number>
 
 ## Learning
 <!--- Describe the research phase and any blog posts, patterns, libraries, or add-ons you used to solve the problem. -->
-
-
