@@ -93,7 +93,7 @@
  > UI and UX Designing with Figma, Adobe Illustrator, Adobe InDesign (Softwares) 
 
 
-<a href="https://www.figma.com/"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/><a>       <a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" height="43px"/></a>      <a href="https://www.adobe.com/products/indesign.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" height="43px"/></a>
+<a href="https://www.figma.com/"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/><a>       <a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" height="43px"/></a>      <a href="https://www.adobe.com/products/indesign.html"><img src="https://www.adobe.com/content/dam/cc/icons/indesign.svg" height="43px"/></a>
  
  
 > Graphic Designing with Adobe Illustrator, Blender (Softwares)
