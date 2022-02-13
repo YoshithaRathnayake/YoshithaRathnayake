@@ -35,7 +35,7 @@
 
 > I am playing Badminton 🏸 in my school as my favourite sport.
 
-> I am a member of <a href="https://github.com/acf-sack"><b><i>ACF Committee</i></b></a> in our school and also a memeber of <a href="https://sefglobal.org/"><b><i>Sustainable Education Foundation (SEF).</i></b></a>
+> I am a member of <a href="https://github.com/acf-sack"><b><i>Antonian Computer Fraternity (ACF)</i></b></a> in our school and also a memeber of <a href="https://sefglobal.org/"><b><i>Sustainable Education Foundation (SEF).</i></b></a>
 
 > I am a Volkswagen car lover.
  
