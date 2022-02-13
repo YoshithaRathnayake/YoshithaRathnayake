@@ -71,7 +71,7 @@
 > Web Designing with Notepad, Notepad++, Visual Studio Code, IntelliJ, Pycharm (Softwares)
 
 
-<a href="https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3?activetab=pivot:overviewtab"><img src="https://www.file-extensions.org/imgs/app-icon/128/759/microsoft-windows-notepad-icon.png" height="45px"><a>    <a href="https://notepad-plus-plus.org/downloads/"><img src="https://img.icons8.com/fluency/48/000000/notepad-plus-plus.png"/><a>  <a href="https://code.visualstudio.com/Download"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/><a>    <a href="https://www.jetbrains.com/idea/download/?fromIDE=#section=windows"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/><a>   <a href="https://www.jetbrains.com/pycharm/download/#section=windows"><img src="https://img.icons8.com/color/48/000000/pycharm.png"/><a>     <a href="https://www.adobe.com/products/dreamweaver.html"/><a>
+<a href="https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3?activetab=pivot:overviewtab"><img src="https://www.file-extensions.org/imgs/app-icon/128/759/microsoft-windows-notepad-icon.png" height="45px"><a>    <a href="https://notepad-plus-plus.org/downloads/"><img src="https://img.icons8.com/fluency/48/000000/notepad-plus-plus.png"/><a>  <a href="https://code.visualstudio.com/Download"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/><a>    <a href="https://www.jetbrains.com/idea/download/?fromIDE=#section=windows"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/><a>   <a href="https://www.jetbrains.com/pycharm/download/#section=windows"><img src="https://img.icons8.com/color/48/000000/pycharm.png"/><a>     
 
 
  
