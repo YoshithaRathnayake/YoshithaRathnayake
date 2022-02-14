@@ -96,7 +96,7 @@
 <a href="https://www.figma.com/"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/><a>       <a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" height="43px"/></a>      <a href="https://www.adobe.com/products/indesign.html"><img src="https://www.adobe.com/content/dam/cc/icons/indesign.svg" height="45px"/></a>
  
  
-> Graphic Designing with Adobe Illustrator, Blender (Softwares)
+> Graphic Designing with Adobe Illustrator, Blender, Gimp (Softwares)
     
 <a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" height="43px"/></a> 
 <a href="https://www.blender.org/"><img src="https://img.icons8.com/color/48/000000/blender-3d.png"/></a>
