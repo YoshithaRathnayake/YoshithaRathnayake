@@ -1,20 +1,27 @@
+<!-- Main Heading -->
 # <div align="center"><a href="https://www.Yoshitha.tk"><b><i>YOSHITHA RATHNAYAKE</i></b></a></div> 
  
+<!-- Image --> 
 # <div align="center"><img src="Yoshitha Rathnayake 2.png" height="250px" alt="Yoshitha Rathnayake"></div>
 
+<!-- Number of GitHub Followers -->
 # ![GitHub followers](https://img.shields.io/github/followers/yoshitharathnayake?logo=GitHub&style=for-the-badge)
 
 
+<!-- GitHub Username -->
 <a href="https://github.com/YoshithaRathnayake">@YoshithaRathnayake<a>
-
+ 
+<!-- GitHub Skyline -->
 <a href="https://skyline.github.com/yoshitharathnayake/2022">Github Skyline<a>
-
+ 
+<!-- First Paragraph -->
 # 
 > Hi, I am Yoshitha Rathnayake.   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 > This is my personal portfolio.
 
 
+<!-- About Me -->
 # About Me
 
 > I am <a href="https://www.Yoshitha.tk"><b><i>Yoshitha Rathnayake.</i></b></a>
@@ -46,6 +53,7 @@
 > I am proud to say that I am a Sri Lankan, Buddhist and Antonian.
 
 
+<!-- What can I do? -->
 # What can I do ?
 
 > Working with (Windows, Linux, Macintosh Operating Systems)
@@ -127,7 +135,8 @@
 
 <a href="https://scratch.mit.edu/download/"><img src="https://www.pngkey.com/png/full/786-7861727_scratch-desktop-4-scratch-desktop-logo.png" height="40px"><a>
 
-  
+
+<!-- Contact Me --> 
 # Contact Me
   
 > Full Name :- <b><i>R.M.Y.S.B.Rathnayake</i></b>
@@ -142,7 +151,8 @@
  
 > Medium :- <a href="https://yoshitharathnayake.medium.com/"><b><i>yoshitharathnayake.medium.com</i></b></a>
   
-  
+
+<!-- Follow Me --> 
 # Follow Me
   
   
@@ -151,10 +161,13 @@
  
 #
  <p align="center">
+  <!-- GitHub Stats -->
   <img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=yoshitharathnayake&show_icons=true&count_private=true" />
+  <!-- Most used languages -->
   <img align="middle" alt="mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshitharathnayake&layout=compact&count_private=true" />
 </p>
- 
+
+<!-- Visitors Count --> 
 #
 **Visitors Count**
   
