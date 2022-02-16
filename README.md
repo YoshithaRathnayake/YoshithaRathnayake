@@ -1,6 +1,5 @@
 <!-- Main Heading -->
-# <div align="center"><a href="https://www.Yoshitha.tk"><b><i>YOSHITHA RATHNAYAKE ![smiling_face](https://user-images.githubusercontent.com/97069900/154190716-0e3d5b41-ce0f-4756-a9b4-f0e7f8d1ee5a.gif)
-</i></b></a></div>
+# <div align="center"><a href="https://www.Yoshitha.tk"><b><i>YOSHITHA RATHNAYAKE</i></b></a></div>
  
 <!-- Image --> 
 # <div align="center"><img src="Yoshitha Rathnayake 2.png" height="250px" alt="Yoshitha Rathnayake"></div>
