@@ -10,7 +10,7 @@
 <a href="https://skyline.github.com/yoshitharathnayake/2022">Github Skyline<a>
 
 # 
-> Hi, I am Yoshitha Rathnayake  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">. 
+> Hi, I am Yoshitha Rathnayake.   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 > This is my personal portfolio.
 
