@@ -75,7 +75,7 @@
 <a href="https://www.microsoft.com/en-US/microsoft-365/p/office-professional-2021/CFQ7TTC0HHJ9?activetab=pivot%3aoverviewtab"><img src="https://img.icons8.com/color/50/000000/microsoft-office-2019.png"/></a>    <a href="https://www.office.com/"><img src="https://img.icons8.com/color/50/000000/office-365.png"/></a>     <a href="https://www.libreoffice.org/"><img src="https://img.icons8.com/windows/50/ffffff/libre-office-suite.png"/></a>       <a href="https://docs.google.com/document/u/0/"><img src="https://img.icons8.com/color/50/000000/google-docs--v2.png"/></a>
     
 
-> Working with Microsoft Edge, Chrome, Mozilla Firefox, Opera, Safari (Web Browsers)
+> Working with Microsoft Edge, Chrome, Mozilla Firefox, Opera, Safari, Internet Explorer (Web Browsers)
     
 <a href="https://www.microsoft.com/en-us/edge?r=1"><img src="https://img.icons8.com/color/48/4a90e2/ms-edge-new.png"/></a>      <a href="https://www.google.com/chrome/"><img src="https://img.icons8.com/fluency/48/4a90e2/chrome.png"/></a>       <a href="https://www.mozilla.org/en-US/exp/firefox/new/"><img src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg" height="43px"/></a>       <a href="https://www.opera.com/download"><img src="https://img.icons8.com/color/48/4a90e2/opera--v1.png"/></a>      <a href="https://support.apple.com/downloads/safari"><img src="https://img.icons8.com/color/48/4a90e2/safari--v1.png"/></a>
   
