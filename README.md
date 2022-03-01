@@ -113,7 +113,7 @@
 <a href="https://www.blender.org/"><img src="https://img.icons8.com/color/48/000000/blender-3d.png"/></a>      <a href="https://www.gimp.org/"><img src="https://img.icons8.com/fluency/50/000000/gimp.png"/></a>
  
  
-> Open Source Contributing GitHub, GitLab (Platforms) 
+> Open Source Contributing with GitHub, GitLab (Platforms) 
 
 
 <a href="https://github.com/YoshithaRathnayake"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>       <a href="https://www.gitlab.com/YoshithaRathnayake"><img src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
