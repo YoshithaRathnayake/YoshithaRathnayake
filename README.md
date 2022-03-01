@@ -59,13 +59,11 @@
 
 
 > Working with (Windows, Linux, Macintosh Operating Systems)
-  
-   
+    
 <a href="https://www.microsoft.com/en-in/windows"><img src="https://img.icons8.com/color/50/000000/windows-11.png"/><a>    <a href="https://www.linux.org/pages/download/"><img src="https://img.icons8.com/color/48/000000/linux--v1.png" height="55px"><a>     <a href="https://www.apple.com/macos/monterey/"><img src="https://img.icons8.com/ios-filled/50/ffffff/mac-os.png" height="50px"><a>
    
   
 > Working with the CMD/PowerShell/Terminal in Windows, Linux, Macintosh (Operating Systems) 
-  
   
 <a href="https://www.microsoft.com/en-us/p/powershell/9mz1snwt0n5d?activetab=pivot:overviewtab#"><img src="https://deow9bq0xqvbj.cloudfront.net/image-logo/1769310/powershell.png" height="50px"><a><a href="https://linux.softpedia.com/get/Terminals/Terminal-3667.shtml"><img src="https://cdn1.macworld.co.uk/cmsdata/features/3608274/terminalicon2_thumb800.png" height="50px"><a><a href="https://sourceforge.net/directory/os:windows/?q=terminal+macos"><img src="https://th.bing.com/th/id/R.89609d9d431352f2e33b1f6e3541cd6a?rik=SAxIDO2wV5uaZg&riu=http%3a%2f%2fwww.journaldulapin.com%2fwp-content%2fuploads%2f2014%2f06%2fTerminal.png&ehk=Imywc0M3kWwm7BBNym409lajOPUIAn5tqXrF5Pb40TM%3d&risl=&pid=ImgRaw&r=0" height="50px"><a>    
     
@@ -81,7 +79,6 @@
   
  
 > Web Designing with Notepad, Notepad++, Visual Studio Code, IntelliJ, Pycharm, Adobe Dreamweaver, Sublime Text, Atom (Softwares)
-
 
 <a href="https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3?activetab=pivot:overviewtab"><img src="https://www.file-extensions.org/imgs/app-icon/128/759/microsoft-windows-notepad-icon.png" height="45px"><a>    <a href="https://notepad-plus-plus.org/downloads/"><img src="https://img.icons8.com/fluency/48/000000/notepad-plus-plus.png"/><a>  <a href="https://code.visualstudio.com/Download"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/><a>    <a href="https://www.jetbrains.com/idea/download/?fromIDE=#section=windows"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/><a>   <a href="https://www.jetbrains.com/pycharm/download/#section=windows"><img src="https://img.icons8.com/color/48/000000/pycharm.png"/><a>      <a href="https://www.adobe.com/products/dreamweaver.html"><img src="https://www.adobe.com/content/dam/cc/icons/dw_cc_app_RGB.svg" height="43px"/><a>      <a href="https://www.sublimetext.com/"><img src="https://img.icons8.com/fluency/50/000000/sublime-text.png"/><a>     <a href="https://atom.io/"><img src="https://img.icons8.com/ios/50/ffffff/atom-editor.png"/><a>
 
@@ -103,7 +100,6 @@
  
 > UI and UX Designing with Figma, Adobe Illustrator, Adobe InDesign (Softwares) 
 
-
 <a href="https://www.figma.com/"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/><a>       <a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" height="43px"/></a>      <a href="https://www.adobe.com/products/indesign.html"><img src="https://www.adobe.com/content/dam/cc/icons/indesign.svg" height="45px"/></a>
  
  
@@ -115,24 +111,20 @@
  
 > Open Source Contributing with GitHub, GitLab (Platforms) 
 
-
 <a href="https://github.com/YoshithaRathnayake"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>       <a href="https://www.gitlab.com/YoshithaRathnayake"><img src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
  
  
 > Audio Editing with Audacity, Adobe Audition (Softwares) 
-
 
 <a href="https://www.audacityteam.org/"><img src="https://www.audacityteam.org/wp-content/themes/wp_audacity/img/logo.png" height="43px"/><a>       <a href="https://www.adobe.com/products/audition.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/audition.svg" height="43px"/></a>
  
  
 > Game Developing with RPG Maker MV (Software) 
 
-
 <a href="https://www.rpgmakerweb.com/products/rpg-maker-mv"><img src="https://www.autotechint.com/wp-content/uploads/rpg-maker-mv-icon-32.png" height="42px"><a>
 
 
 > Programming with Scratch (Software)
-
 
 <a href="https://scratch.mit.edu/download/"><img src="https://www.pngkey.com/png/full/786-7861727_scratch-desktop-4-scratch-desktop-logo.png" height="40px"><a>
 
