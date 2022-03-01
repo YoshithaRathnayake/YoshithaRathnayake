@@ -116,7 +116,7 @@
 > Open Source working GitHub, GitLab (Platforms) 
 
 
-<a href="https://www.github.com/YoshithaRathnayake"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/><a>       <a href="https://www.gitlab.com/YoshithaRathnayake"><img src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
+<a href="https://github.com/YoshithaRathnayake" ><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="Git Hub Icon" /></a>       <a href="https://www.gitlab.com/YoshithaRathnayake"><img src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
  
  
 > Audio Editing with Audacity, Adobe Audition (Softwares) 
