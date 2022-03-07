@@ -106,7 +106,7 @@
 > Graphic Designing with Adobe Illustrator, Blender, Gimp (Softwares)
     
 <a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" height="43px"/></a> 
-<a href="https://www.blender.org/"><img src="https://img.icons8.com/color/48/000000/blender-3d.png"/></a>      <a href="https://www.gimp.org/"><img src="https://img.icons8.com/fluency/50/000000/gimp.png"/></a>
+<a href="https://www.blender.org/"><img src="https://img.icons8.com/color/48/000000/blender-3d.png"/></a>      <a href="https://www.gimp.org/"><img src="https://img.icons8.com/fluency/50/000000/gimp.png"/></a>      <img src="https://img.icons8.com/plasticine/100/000000/sketch.png"/>
  
  
 > Open Source Contributing with GitHub, GitLab (Platforms) 
