@@ -7,12 +7,12 @@
 <!-- Number of GitHub Followers -->
 # ![GitHub followers](https://img.shields.io/github/followers/yoshitharathnayake?logo=GitHub&style=for-the-badge)
 
-
 <!-- GitHub Username -->
 <a href="https://github.com/YoshithaRathnayake">@YoshithaRathnayake<a>
  
 <!-- GitHub Skyline -->
 <a href="https://skyline.github.com/yoshitharathnayake/2022">Github Skyline<a>
+ 
  
 <!-- First Paragraph -->
 # 
@@ -20,6 +20,7 @@
 
 > This is my personal portfolio.
 
+ 
 
 <!-- About Me -->
 # About Me  ![1f600](https://user-images.githubusercontent.com/97069900/154191851-6317b49b-1068-4f96-abb7-7935f2d7c466.png)
@@ -54,6 +55,7 @@
 > I am proud to say that I am a Sri Lankan, Buddhist and Antonian.
 
 
+ 
 <!-- What can I do? -->
 # What can I do ?   ![1f4bb](https://user-images.githubusercontent.com/97069900/154191116-32d123fe-5228-400e-a78b-c23add78bee2.png)
 
@@ -134,6 +136,7 @@
 <a href="https://visualstudio.microsoft.com/vs/"><img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/></a>
 
 
+ 
 <!-- Contact Me --> 
 # Contact Me  ![1f4de](https://user-images.githubusercontent.com/97069900/154191604-ac56f694-0ae9-41bd-bb9e-3d533823dc25.png)
 
@@ -149,6 +152,7 @@
 > Google Developer :- <a href="https://developers.google.com/u/YoshithaRathnayake"><b><i>g.dev/YoshithaRathnayake</i></b></a>
   
 
+ 
 <!-- Follow Me --> 
 # Follow Me
   
@@ -156,6 +160,7 @@
 <a href=" https://chat.whatsapp.com/KRqihLP7J7HEpM2dL6Zwt9" ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp Icon" /></a>    <a href="https://t.me/joinchat/hP-WbTXCf185YTg1" ><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram Icon" /></a>   <a href="https://github.com/YoshithaRathnayake" ><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="Git Hub Icon" /></a>    <a href="https://gitlab.com/YoshithaRathnayake" ><img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Git Lab Icon"/></a>    <a href="https://twitter.com/Yoshitha2008" ><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="Twitter Icon" /></a>     <a href="https://www.instagram.com/YoshithaRathnayake" ><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram Icon" /></a>     <a href="https://yoshitharathnayake.medium.com"><img src="https://img.icons8.com/ios-filled/48/ffffff/medium--v2.png" alt="Medium Icon" /></a>
  
 
+ 
 #
  <p align="center">
   <!-- GitHub Stats -->
