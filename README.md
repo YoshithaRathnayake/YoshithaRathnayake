@@ -58,7 +58,7 @@
 # What can I do ?   ![1f4bb](https://user-images.githubusercontent.com/97069900/154191116-32d123fe-5228-400e-a78b-c23add78bee2.png)
 
 
-> Working with (Windows, Linux, Macintosh Operating Systems)
+> Working with Windows, Linux, Macintosh (Operating Systems)
     
 <a href="https://www.microsoft.com/en-in/windows"><img src="https://img.icons8.com/color/50/000000/windows-11.png"/><a>    <a href="https://www.linux.org/pages/download/"><img src="https://img.icons8.com/color/48/000000/linux--v1.png" height="55px"><a>     <a href="https://www.apple.com/macos/monterey/"><img src="https://img.icons8.com/ios-filled/50/ffffff/mac-os.png" height="50px"><a>
    
