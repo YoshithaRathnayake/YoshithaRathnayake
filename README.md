@@ -83,7 +83,7 @@
 <a href="https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3?activetab=pivot:overviewtab"><img src="https://www.file-extensions.org/imgs/app-icon/128/759/microsoft-windows-notepad-icon.png" height="45px"><a>    <a href="https://notepad-plus-plus.org/downloads/"><img src="https://img.icons8.com/fluency/48/000000/notepad-plus-plus.png"/><a>  <a href="https://code.visualstudio.com/Download"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/><a>    <a href="https://www.jetbrains.com/idea/download/?fromIDE=#section=windows"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/><a>   <a href="https://www.jetbrains.com/pycharm/download/#section=windows"><img src="https://img.icons8.com/color/48/000000/pycharm.png"/><a>      <a href="https://www.adobe.com/products/dreamweaver.html"><img src="https://www.adobe.com/content/dam/cc/icons/dw_cc_app_RGB.svg" height="43px"/><a>      <a href="https://www.sublimetext.com/"><img src="https://img.icons8.com/fluency/50/000000/sublime-text.png"/><a>     <a href="https://atom.io/"><img src="https://img.icons8.com/ios/50/ffffff/atom-editor.png"/><a>
  
  
-> App Developing with  (Softwares)
+> App Developing with Visual Studio (Softwares)
 
 
 > Web Designing with HTML, CSS, JavaScript, Bootstrap, Python (Programming Languages) 
