@@ -85,6 +85,8 @@
  
 > App Developing with Visual Studio (Software)
 
+ <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/>
+ 
 
 > Web Designing with HTML, CSS, JavaScript, Bootstrap, Python (Programming Languages) 
 
