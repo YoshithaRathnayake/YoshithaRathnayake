@@ -68,7 +68,7 @@
 <a href="https://www.microsoft.com/en-us/p/powershell/9mz1snwt0n5d?activetab=pivot:overviewtab#"><img src="https://deow9bq0xqvbj.cloudfront.net/image-logo/1769310/powershell.png" height="50px"><a><a href="https://linux.softpedia.com/get/Terminals/Terminal-3667.shtml"><img src="https://cdn1.macworld.co.uk/cmsdata/features/3608274/terminalicon2_thumb800.png" height="50px"><a><a href="https://sourceforge.net/directory/os:windows/?q=terminal+macos"><img src="https://th.bing.com/th/id/R.89609d9d431352f2e33b1f6e3541cd6a?rik=SAxIDO2wV5uaZg&riu=http%3a%2f%2fwww.journaldulapin.com%2fwp-content%2fuploads%2f2014%2f06%2fTerminal.png&ehk=Imywc0M3kWwm7BBNym409lajOPUIAn5tqXrF5Pb40TM%3d&risl=&pid=ImgRaw&r=0" height="50px"><a>    
     
 
-> Working with Microsoft Office Pro Plus, Office 365, Microsoft 365, Libre Office, Google Docs (Softwares)
+> Word Processing with Microsoft Office Pro Plus, Office 365, Microsoft 365, Libre Office, Google Docs (Softwares)
     
 <a href="https://www.microsoft.com/en-US/microsoft-365/p/office-professional-2021/CFQ7TTC0HHJ9?activetab=pivot%3aoverviewtab"><img src="https://img.icons8.com/color/50/000000/microsoft-office-2019.png"/></a>    <a href="https://www.office.com/"><img src="https://img.icons8.com/color/50/000000/office-365.png"/></a>     <a href="https://www.libreoffice.org/"><img src="https://img.icons8.com/windows/50/ffffff/libre-office-suite.png"/></a>       <a href="https://docs.google.com/document/u/0/"><img src="https://img.icons8.com/color/50/000000/google-docs--v2.png"/></a>
     
