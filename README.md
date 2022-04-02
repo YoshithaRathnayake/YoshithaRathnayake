@@ -128,7 +128,7 @@
  
 > Screen Recording with OBS Studio, Bandicam, X Box Game Bar (Softwares)
  
-<img src="https://img.icons8.com/ios-filled/50/ffffff/obs-studio.png">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/obs-studio.png">      <img src="https://img.icons8.com/color/344/bandicam.png">
 
 > Programming with Scratch (Software)
 
