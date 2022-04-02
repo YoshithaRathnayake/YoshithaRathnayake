@@ -128,7 +128,7 @@
  
 > Screen Recording with OBS Studio, Bandicam, X Box Game Bar (Softwares)
  
-<a href="https://obsproject.com/"><img src="https://obsproject.com/assets/images/new_icon_small-r.png" height="50px"></a>      <a href="https://www.bandicam.com/"><img src="https://www.bandicam.com/company/logo/bandicam_symbol.png" height="50px"></a>      <a href="https://www.microsoft.com/en-us/p/xbox-game-bar/9nzkpstsnw4p?activetab=pivot:overviewtab"><img src="https://th.bing.com/th/id/OIP.lhYMDZ0GTu4xVNjFVeofhAAAAA?pid=ImgDet&rs=1" height="50px" width="50px"></a>
+<a href="https://obsproject.com/"><img src="https://obsproject.com/assets/images/new_icon_small-r.png" height="50px"></a>      <a href="https://www.bandicam.com/"><img src="https://www.bandicam.com/company/logo/bandicam_symbol.png" height="50px"></a>      <a href="https://www.microsoft.com/en-us/p/xbox-game-bar/9nzkpstsnw4p?activetab=pivot:overviewtab"><img src="https://th.bing.com/th/id/OIP.lhYMDZ0GTu4xVNjFVeofhAAAAA?pid=ImgDet&rs=1" height="50px"></a>
 
 > Programming with Scratch (Software)
 
