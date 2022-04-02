@@ -123,7 +123,7 @@
  
 > Game Developing with RPG Maker MV, Unity (Softwares) 
 
-<a href="https://www.rpgmakerweb.com/products/rpg-maker-mv"><img src="https://www.autotechint.com/wp-content/uploads/rpg-maker-mv-icon-32.png" height="42px"><a>       <a href="https://unity.com/"><img src="https://img.icons8.com/ios-filled/344/ffffff/unity.png"/></a>
+<a href="https://www.rpgmakerweb.com/products/rpg-maker-mv"><img src="https://www.autotechint.com/wp-content/uploads/rpg-maker-mv-icon-32.png" height="42px"><a>       <a href="https://unity.com/"><img src="https://img.icons8.com/ios-filled/50/ffffff/unity.png"/></a>
 
  
 > Screen Recording with OBS Studio, Bandicam, X Box Game Bar (Softwares)
