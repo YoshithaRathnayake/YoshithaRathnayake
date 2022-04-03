@@ -28,7 +28,7 @@
 
 > I am <a href="https://www.Yoshitha.tk"><b><i>Yoshitha Rathnayake.</i></b></a>
 
-> I am a Student, Developer, Designer, Software Developer, Web Developer, Game Developer, Programmer, Video Editor, Photo Editor, UI and UX Designer, Graphic Designer and a badminton player.
+> I am a Student, Developer, Designer, Software Developer, Web Developer, Game Developer, Programmer, Video Editor, Photo Editor, UI and UX Designer, Graphic Designer and a Badminton Player.
 
 > I am 13 years old. 
 
