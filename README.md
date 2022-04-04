@@ -206,51 +206,7 @@
 <p align="center">
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=YoshithaRathnayake" />
 </p>
- 
- <img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&theme=highcontrast" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PR0FESS0R-99&theme=tokyonight" align="center">
 
- 
- <!-- Black Theme Contribution Details -->
-#
-# <div align="center">BLACK THEME CONTRIBUTION DETAILS</div>
-<!-- Most used languages -->
-<p align="center">
- <b><i>MOST USED LANGUAGES</i></b>
-</p>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshithaRathnayake&layout=compact&theme=tokyonight"></div>
-
-<!-- Contribution Details -->
- #
-<p align="center">
- <b><i>CONTRIBUTION DETAILS</i></b>
-</p>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&theme=tokyonight"></div>
-
- <!-- GitHub Stats -->
-#
-<p align="center">
- <b><i>GITHUB STATS</i></b>
-</p>
-<div align="center"><img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=yoshitharathnayake&show_icons=true&count_private=true" /></div>
-
-<!-- Contribution Graph -->
- #
-<p align="center">
- 📊 <i>𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐑𝐀𝐅</i> 📊
-</p>
-<p align="center">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=YoshithaRathnayake&custom_title=Contribution+Graph" />
- 
-<!-- Trophies -->
- #
-<p align="center">
- 🏆 <i>𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒</i> 🏆
-</p>
-<p align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=YoshithaRathnayake" />
-</p>
- 
  
 <!-- Visitors Count --> 
 #
