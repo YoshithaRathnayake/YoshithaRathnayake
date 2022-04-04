@@ -167,9 +167,9 @@
  
 
 
-<!-- White Theme Contribution Details -->
+<!-- Contribution Details -->
 #
-# <div align="center">WHITE THEME CONTRIBUTION DETAILS</div>
+# <div align="center">CONTRIBUTION DETAILS</div>
 <!-- Most used languages -->
 <p align="center">
  <b><i>MOST USED LANGUAGES</i></b>
@@ -213,18 +213,6 @@
 **Visitors Count**
   
 ![VisitorCount](https://profile-counter.glitch.me/{yoshitharathnayake2008}/count.svg)
-
- 
-
-
-
-
-
-
-
-
-
-  
 
  
 <!---
