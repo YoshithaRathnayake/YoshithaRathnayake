@@ -142,32 +142,7 @@
 
 
  
-<!-- Contact Me --> 
-# Contact Me  ![1f4de](https://user-images.githubusercontent.com/97069900/154191604-ac56f694-0ae9-41bd-bb9e-3d533823dc25.png)
-
-  
-> Full Name :- <b><i>R.M.Y.S.B.Rathnayake</i></b>
-  
-> Short Name :- <b><i>Yoshitha Rathnayake</i></b>
-  
-> Phone Number :- <a href="tel:+94 076 707 3488"><b><i>+94 076 707 3488</i></b></a>
-  
-> Email :- <a href="mailto:YoshithaRathnayake@yoshitha.tk"><b><i>YoshithaRathnayake@yoshitha.tk</i></b></a>
- 
-> Google Developer :- <a href="https://developers.google.com/u/YoshithaRathnayake"><b><i>g.dev/YoshithaRathnayake</i></b></a>
-  
-
- 
-<!-- Follow Me -->
-#
-# Follow Me
-  
-  
-<a href=" https://chat.whatsapp.com/KRqihLP7J7HEpM2dL6Zwt9" ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp Icon" /></a>    <a href="https://t.me/joinchat/hP-WbTXCf185YTg1" ><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram Icon" /></a>   <a href="https://github.com/YoshithaRathnayake" ><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="Git Hub Icon" /></a>    <a href="https://gitlab.com/YoshithaRathnayake" ><img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Git Lab Icon"/></a>    <a href="https://twitter.com/Yoshitha2008" ><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="Twitter Icon" /></a>     <a href="https://www.instagram.com/YoshithaRathnayake" ><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram Icon" /></a>     <a href="https://yoshitharathnayake.medium.com"><img src="https://img.icons8.com/ios-filled/48/ffffff/medium--v2.png" alt="Medium Icon" /></a>
- 
-
-
-<!-- Contribution Details -->
+ <!-- Contribution Details -->
 #
 # <div align="center">CONTRIBUTION DETAILS</div>
 <!-- Most used languages -->
@@ -206,6 +181,32 @@
 <p align="center">
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=YoshithaRathnayake" />
 </p>
+ 
+ 
+ 
+<!-- Contact Me --> 
+# Contact Me  ![1f4de](https://user-images.githubusercontent.com/97069900/154191604-ac56f694-0ae9-41bd-bb9e-3d533823dc25.png)
+
+  
+> Full Name :- <b><i>R.M.Y.S.B.Rathnayake</i></b>
+  
+> Short Name :- <b><i>Yoshitha Rathnayake</i></b>
+  
+> Phone Number :- <a href="tel:+94 076 707 3488"><b><i>+94 076 707 3488</i></b></a>
+  
+> Email :- <a href="mailto:YoshithaRathnayake@yoshitha.tk"><b><i>YoshithaRathnayake@yoshitha.tk</i></b></a>
+ 
+> Google Developer :- <a href="https://developers.google.com/u/YoshithaRathnayake"><b><i>g.dev/YoshithaRathnayake</i></b></a>
+  
+
+ 
+<!-- Follow Me -->
+#
+# Follow Me
+  
+  
+<a href=" https://chat.whatsapp.com/KRqihLP7J7HEpM2dL6Zwt9" ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp Icon" /></a>    <a href="https://t.me/joinchat/hP-WbTXCf185YTg1" ><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram Icon" /></a>   <a href="https://github.com/YoshithaRathnayake" ><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="Git Hub Icon" /></a>    <a href="https://gitlab.com/YoshithaRathnayake" ><img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Git Lab Icon"/></a>    <a href="https://twitter.com/Yoshitha2008" ><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="Twitter Icon" /></a>     <a href="https://www.instagram.com/YoshithaRathnayake" ><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram Icon" /></a>     <a href="https://yoshitharathnayake.medium.com"><img src="https://img.icons8.com/ios-filled/48/ffffff/medium--v2.png" alt="Medium Icon" /></a>
+ 
 
  
 <!-- Visitors Count --> 
