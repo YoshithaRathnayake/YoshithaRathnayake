@@ -144,7 +144,7 @@
  
  <!-- Contribution Details -->
 #
-# Contribution Details
+# Contribution Details 📊
 <!-- Most used languages -->
 <p align="center">
  <b><i>MOST USED LANGUAGES</i></b>
