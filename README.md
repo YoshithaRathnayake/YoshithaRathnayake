@@ -171,7 +171,7 @@
  📊 <i>𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐑𝐀𝐅</i> 📊
 </p>
 <p align="center">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=YoshithaRathnayake&custom_title=Contribution+Graph" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=YoshithaRathnayake&custom_title=Contribution+Graph&theme=xcode" />
  
 <!-- Trophies -->
  #
@@ -179,7 +179,7 @@
  🏆 <i>𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒</i> 🏆
 </p>
 <p align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=YoshithaRathnayake" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=YoshithaRathnayake&theme=xcode" />
 </p>
  
  
