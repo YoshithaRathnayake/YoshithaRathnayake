@@ -1,5 +1,5 @@
 <!-- Main Heading --> 
-# <div align="center"><a href="https://www.Yoshitha.tk"><b><i>YOSHITHA RATHNAYAKE</i></b></a></div> 
+# <div align="center"><a href="https://www.Yoshitha.tk"><b><i>YOSHITHA RATHNAYAKE</i></b></a></div>
  
 <!-- Image --> 
 # <div align="center"><img src="Yoshitha Rathnayake.png" height="300px" alt="Yoshitha Rathnayake"></div>
@@ -28,7 +28,7 @@
 
 > I am <a href="https://www.Yoshitha.tk"><b><i>Yoshitha Rathnayake.</i></b></a>
 
-> I am a Student, Developer, Designer, Software Developer, Web Developer, Game Developer, Programmer, Video Editor, Photo Editor, UI and UX Designer, Graphic Designer and a Badminton Player.
+> I am a Student, Developer, Designer, Programmer, Software Developer, Web Developer, Game Developer, Video Editor, Photo Editor, UI and UX Designer, Graphic Designer, Open Source Contributor, Hacker and a Badminton Player.
 
 > I am 13 years old. 
 
