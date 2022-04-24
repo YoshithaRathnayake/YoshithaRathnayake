@@ -38,21 +38,21 @@
  
 > I am a member of <a href="https://medium.com/"><b><i>Medium</i></b></a> (<a href="https://yoshitharathnayake.medium.com/"><b><i> yoshitharathnayake.medium.com </i></b></a>)
 
-> My favourite subject is ICT.
+> My favourite subject is ***ICT***.
 
-> I am observing Buddhism as my religion.
+> I am observing ***Buddhism*** as my religion.
 
-> I live in Kandy District, Central Province, Sri Lanka.
+> I live in ***Kandy District, Central Province, Sri Lanka***.
 
-> I am playing Badminton 🏸 in my school as my favourite sport.
+> I am playing ***Badminton*** 🏸 in my school as my favourite sport.
 
 > I am a member of <a href="https://github.com/acf-sack"><b><i>Antonian Computer Fraternity (ACF)</i></b></a> in our school and also a memeber of <a href="https://sefglobal.org/"><b><i>Sustainable Education Foundation (SEF).</i></b></a>
 
-> I am a Volkswagen car lover.
+> I am a ***Volkswagen*** car lover.
  
-> I hope to be a <b><i>Computer Engineer 💻 </i></b> in the future.
+> I hope to be a ***Computer Engineer*** 💻 in the future.
 
-> I am proud to say that I am a Sri Lankan, Buddhist and Antonian.
+> I am proud to say that I am a ***Sri Lankan, Buddhist and Antonian***.
 
 
  
