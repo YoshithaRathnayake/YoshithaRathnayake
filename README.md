@@ -65,9 +65,9 @@
 <a href="https://www.microsoft.com/en-in/windows"><img src="https://img.icons8.com/color/50/000000/windows-11.png"/><a>    <a href="https://www.linux.org/pages/download/"><img src="https://img.icons8.com/color/48/000000/linux--v1.png" height="55px"><a>     <a href="https://www.apple.com/macos/monterey/"><img src="https://img.icons8.com/ios-filled/50/ffffff/mac-os.png" height="50px"><a>
    
   
-> Working with the CMD/PowerShell/Terminal in Windows, Linux, Macintosh (Operating Systems) 
+> Working with the CMD/PowerShell/Terminal in Windows, Linux, Macintosh (Terminals) 
   
-<a href="https://www.microsoft.com/en-us/p/powershell/9mz1snwt0n5d?activetab=pivot:overviewtab#"><img src="https://deow9bq0xqvbj.cloudfront.net/image-logo/1769310/powershell.png" height="50px"><a><a href="https://linux.softpedia.com/get/Terminals/Terminal-3667.shtml"><img src="https://cdn1.macworld.co.uk/cmsdata/features/3608274/terminalicon2_thumb800.png" height="50px"><a><a href="https://sourceforge.net/directory/os:windows/?q=terminal+macos"><img src="https://th.bing.com/th/id/R.89609d9d431352f2e33b1f6e3541cd6a?rik=SAxIDO2wV5uaZg&riu=http%3a%2f%2fwww.journaldulapin.com%2fwp-content%2fuploads%2f2014%2f06%2fTerminal.png&ehk=Imywc0M3kWwm7BBNym409lajOPUIAn5tqXrF5Pb40TM%3d&risl=&pid=ImgRaw&r=0" height="50px"><a>    
+<a href="https://www.microsoft.com/en-us/p/powershell/9mz1snwt0n5d?activetab=pivot:overviewtab#"><img src="https://deow9bq0xqvbj.cloudfront.net/image-logo/1769310/powershell.png" height="50px"></a>     <a><img src="https://th.bing.com/th/id/R.89609d9d431352f2e33b1f6e3541cd6a?rik=SAxIDO2wV5uaZg&riu=http%3a%2f%2fwww.journaldulapin.com%2fwp-content%2fuploads%2f2014%2f06%2fTerminal.png&ehk=Imywc0M3kWwm7BBNym409lajOPUIAn5tqXrF5Pb40TM%3d&risl=&pid=ImgRaw&r=0" height="50px"></a>    
     
 
 > Word Processing with Microsoft Office Pro Plus, Office 365, Microsoft 365, Libre Office, Google Docs (Softwares)
