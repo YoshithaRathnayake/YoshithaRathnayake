@@ -16,7 +16,7 @@
  
 <!-- First Paragraph -->
 # 
-> Hi, I am ***Yoshitha Rathnayake***.   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+> Hi, I am ***Yoshitha Rathnayake***.   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px">
 
 > This is ***My Personal Portfolio***.
 
