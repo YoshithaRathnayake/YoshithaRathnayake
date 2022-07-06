@@ -214,7 +214,7 @@
 #
 **Visitors Count**
   
-![VisitorCount](https://profile-counter.glitch.me/{yoshitharathnayake2008}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{YoshithaRathnayake}/count.svg)
 
  
 <!---
