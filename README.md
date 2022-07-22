@@ -2,7 +2,7 @@
 #
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=YOSHITHA+RATHNAYAKE&font=edo%100Code&size=50&color=20F100&center=true&width=580&height=70">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Yᴏsʜɪᴛʜᴀ+Rᴀᴛʜɴᴀʏᴀᴋᴇ&font=edo%100Code&size=50&color=20F100&center=true&width=580&height=70">
 
 </p>
 
@@ -31,7 +31,7 @@
  
 <!-- First Paragraph -->
 # 
-> Hi, I am ***Yoshitha Rathnayake***.   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px">
+> Hi, I am ***Yoshitha Rathnayake***.   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 
 > This is ***My Personal Portfolio***.
 
