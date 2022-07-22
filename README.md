@@ -1,9 +1,19 @@
+<!-- Auto Typing Name -->
+#
+<p align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=YOSHITHA+RATHNAYAKE&font=edo%100Code&size=50&color=20F100&center=true&width=580&height=70">
+
+</p>
+
 <!-- Main Heading --> 
 # <div align="center"><a href="https://www.Yoshitha.tk"><b><i>YOSHITHA RATHNAYAKE</i></b></a></div>
+
  
 <!-- Image --> 
 # <div align="center"><img src="Yoshitha_Rathnayake.png" height="300px" alt="Yoshitha Rathnayake"></div>
 
+<!-- Auto Typing About -->
 <div align="center"> 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=4000&color=13F700&background=EB00FF00&center=true&vCenter=true&width=600&lines=++++Hi,++I'm++YOSHITHA++RATHNAYAKE;I'm+a+Student;I'm+a+Developer;I'm+a+Designer;I'm+a+Programmer;I'm+an+Editor;I'm+a+Photographer;And+I'm+a+Videographer)](https://git.io/typing-svg)
