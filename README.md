@@ -4,6 +4,11 @@
 <!-- Image --> 
 # <div align="center"><img src="Yoshitha_Rathnayake.png" height="300px" alt="Yoshitha Rathnayake"></div>
 
+<div align="center"> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=4000&color=13F700&background=EB00FF00&center=true&vCenter=true&width=600&lines=++++Hi,++I'm++YOSHITHA++RATHNAYAKE;I'm+a+Student;I'm+a+Developer;I'm+a+Designer;I'm+a+Programmer;I'm+an+Editor;I'm+a+Photographer;And+I'm+a+Videographer)](https://git.io/typing-svg)
+</div>
+
 <!-- Number of GitHub Followers -->
 # ![GitHub followers](https://img.shields.io/github/followers/yoshitharathnayake?logo=GitHub&style=for-the-badge)
 
@@ -28,7 +33,7 @@
 
 > I am <a href="https://www.Yoshitha.tk"><b><i>Yoshitha Rathnayake.</i></b></a>
 
-> I am a ***Student, Developer, Designer, Programmer, Software Developer, Web Developer, Game Developer, Video Editor, Photo Editor, UI and UX Designer, Graphic Designer, Open Source Contributor, Hacker and a Badminton Player***.
+> I am a ***Student, Developer, Designer, Programmer, Editor, Photographer, Videographer, Software Developer, Web Developer, Game Developer, Video Editor, Photo Editor, UI and UX Designer, Graphic Designer, Open Source Contributor, Hacker and a Badminton Player***.
 
 > I am ***13*** years old. 
 
