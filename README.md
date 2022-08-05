@@ -146,14 +146,16 @@
 <a href="https://www.rpgmakerweb.com/products/rpg-maker-mv"><img src="https://www.autotechint.com/wp-content/uploads/rpg-maker-mv-icon-32.png" height="42px"><a>       <a href="https://unity.com/"><img src="https://img.icons8.com/ios-filled/50/ffffff/unity.png"/></a>
 
 
-> Programming with Scratch (Software)
-
-<a href="https://scratch.mit.edu/download/"><img src="https://www.pngkey.com/png/full/786-7861727_scratch-desktop-4-scratch-desktop-logo.png" height="40px"><a>
- 
- 
 > App Developing with Visual Studio (Software)
 
 <a href="https://visualstudio.microsoft.com/vs/"><img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/></a>
+<a href="https://developer.android.com/studio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" height="50px"/></a>
+
+
+> Programming with Scratch (Software)
+
+<a href="https://scratch.mit.edu/download/"><img src="https://www.pngkey.com/png/full/786-7861727_scratch-desktop-4-scratch-desktop-logo.png" height="40px"><a>
+
 
 
  
