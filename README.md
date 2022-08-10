@@ -188,7 +188,10 @@
  📊 <i>𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐑𝐀𝐅</i> 📊
 </p>
 <p align="center">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=YoshithaRathnayake&custom_title=Contribution+Graph&theme=xcode" />
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YoshithaRathnayake&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
+
+</p>
  
 <!-- Trophies -->
  #
