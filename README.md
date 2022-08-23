@@ -159,6 +159,10 @@
 <a href="https://scratch.mit.edu/download/"><img src="https://www.pngkey.com/png/full/786-7861727_scratch-desktop-4-scratch-desktop-logo.png" height="40px"><a>
 
 
+> DJ with Virtual DJ (Software)
+
+<a href="https://www.virtualdj.com/"><img src="https://www.virtualdj.com/favicon.ico?ver=8.0" height="50px"><a>  
+
 
  
  <!-- Contribution Details -->
