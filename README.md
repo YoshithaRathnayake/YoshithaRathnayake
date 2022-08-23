@@ -193,7 +193,7 @@
 <!-- Contribution Graph -->
  #
 <p align="center">
- 📊 <i>𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐑𝐀𝐅</i> 📊
+   <i><b>CONTRIBUTION GRAPH</b></i>
 </p>
 <p align="center">
 
