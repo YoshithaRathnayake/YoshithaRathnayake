@@ -45,9 +45,11 @@
 
 > I am a ***Student, Developer, Designer, Programmer, Editor, Photographer, Videographer, Software Developer, Web Developer, Game Developer, Video Editor, Photo Editor, UI and UX Designer, Graphic Designer, Open Source Contributor, Hacker and a Badminton Player***.
 
-> I am ***13*** years old. 
+> I am ***14*** years old. 
 
 > I am studing in <a href="https://www.sack.edu.lk/#gsc.tab=0"><b><i>St. Anthony's College Kandy.</i></b></a>
+
+>> I am studying in ***Grade 9D*** in my school.
  
 > I am a <a href="https://developers.google.com/"><b><i>Developer of Google</i></b> </a> (<a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i> g.dev/YoshithaRathnayake </i></b></a>)
  
