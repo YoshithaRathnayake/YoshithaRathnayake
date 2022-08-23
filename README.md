@@ -204,7 +204,7 @@
 <!-- Trophies -->
  #
 <p align="center">
- 🏆 <i>𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒</i> 🏆
+   <i><b>TROPHIES</b></i>
 </p>
 <p align="center">
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=YoshithaRathnayake&theme=darkhub" />
