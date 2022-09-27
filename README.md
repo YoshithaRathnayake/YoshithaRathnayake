@@ -167,7 +167,7 @@
 
 
  
- <!-- Contribution Details -->
+<!-- Contribution Details -->
 #
 # Contribution Details 📊
 <!-- Most used languages -->
@@ -177,13 +177,13 @@
 <div align="center"><img alt="mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshitharathnayake&layout=compact&count_private=true" /></div>
 
 <!-- Contribution Details -->
- #
+#
 <p align="center">
  <b><i>CONTRIBUTION DETAILS</i></b>
 </p>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=YoshithaRathnayake" align="center"></div>
 
- <!-- GitHub Stats -->
+<!-- GitHub Stats -->
 #
 <p align="center">
  <b><i>GITHUB STATS</i></b>
@@ -191,7 +191,7 @@
 <div align="center"><img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=yoshitharathnayake&show_icons=true&count_private=true" /></div>
 
 <!-- Contribution Graph -->
- #
+#
 <p align="center">
    <i><b>CONTRIBUTION GRAPH</b></i>
 </p>
@@ -210,6 +210,19 @@
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=YoshithaRathnayake&theme=darkhub" />
 </p>
  
+ 
+ 
+<!-- Archievements -->
+#
+# Archivements <img src="https://img.icons8.com/emoji/344/star-emoji.png" height="80px">
+
+<!-- Badges -->
+<p align="center">
+ <b><i>BADGES</i></b>
+</p>
+
+[![@yoshitha_rathnayake's Holopin board](https://holopin.io/api/user/board?user=yoshitha_rathnayake)](https://holopin.io/@yoshitha_rathnayake)
+
  
  
 <!-- Contact Me -->
