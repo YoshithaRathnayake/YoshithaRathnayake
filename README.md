@@ -188,7 +188,7 @@
 <p align="center">
  <b><i>GITHUB STATS</i></b>
 </p>
-<div align="center"><img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=yoshitharathnayake&show_icons=true&count_private=true" /></div>
+<div align="center"><img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=yoshitharathnayake&show_icons=true&count_private=true"/></div>
 
 <!-- Contribution Graph -->
 #
