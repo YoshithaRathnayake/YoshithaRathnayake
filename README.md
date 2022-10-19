@@ -14,6 +14,7 @@
 <!-- Image --> 
 # <div align="center"><img src="Yoshitha_Rathnayake.png" height="300px" alt="Yoshitha Rathnayake"></div>
 
+
 <!-- Auto Typing About -->
 <div align="center"> 
   
