@@ -177,6 +177,7 @@
  <b><i>MOST USED LANGUAGES</i></b>
 </p>
 <div align="center"><img alt="mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshitharathnayake&layout=compact&count_private=true" /></div>
+<div align="center"><img alt="Yoshitha's Github Langauge Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshithaRathnayake" /></div>
 
 <!-- Contribution Details -->
 #
