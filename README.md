@@ -237,7 +237,7 @@
   
 > Short Name :- <b><i>Yoshitha Rathnayake</i></b>
   
-> Phone Number :- <a href="tel:+94 076 707 3488"><b><i>+94 076 707 3488</i></b></a>
+> Phone Number :- <a href="tel:+94 72 825 9003"><b><i>+94 72 825 9003</i></b></a>
   
 > Email :- <a href="mailto:YoshithaRathnayake@yoshitha.tk"><b><i>YoshithaRathnayake@yoshitha.tk</i></b></a>
  
