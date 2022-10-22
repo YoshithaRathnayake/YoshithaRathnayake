@@ -218,12 +218,28 @@
 <p align="center">
    <i><b>CONTRIBUTION TABLE</b></i>
 </p>
-<p align="center">
+
+<div align="center">
 
 ![snake gif](https://raw.githubusercontent.com/YoshithaRathnayake/YoshithaRathnayake/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/YoshithaRathnayake/YoshithaRathnayake/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-</p>
+</div>
  
+<!-- Most Worked Repositories -->
+ #
+ <p align="center">
+   <i><b>MOST WORKED REPOSITORIES</b></i>
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=...&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000&size=16" width="100%" />
+
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=YOSHITHA-WEBSITE&theme=dark)](https://github.com/YoshithaRathnayake/YOSHITHA-WEBSITE) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=NEW-YOSHITHA-WEBSITE&theme=dark)](https://github.com/YoshithaRathnayake/https://github.com/YoshithaRathnayake/NEW-YOSHITHA-WEBSITE) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=sack-site&theme=dark)](https://github.com/YoshithaRathnayake/sack-site) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=sef-site&theme=dark)](https://github.com/YoshithaRathnayake/sef-site) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+</div>
  
  
 <!-- Archievements -->
