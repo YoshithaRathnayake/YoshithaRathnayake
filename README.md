@@ -231,7 +231,9 @@
    <i><b>MOST WORKED REPOSITORIES</b></i>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=...&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000&size=16" width="100%" />
+#
+
+<div align="center">
 
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=YOSHITHA-WEBSITE&theme=dark)](https://github.com/YoshithaRathnayake/YOSHITHA-WEBSITE) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=NEW-YOSHITHA-WEBSITE&theme=dark)](https://github.com/YoshithaRathnayake/https://github.com/YoshithaRathnayake/NEW-YOSHITHA-WEBSITE) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
