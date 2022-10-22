@@ -212,6 +212,17 @@
 <p align="center">
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=YoshithaRathnayake&theme=darkhub" />
 </p>
+
+<!-- Contribution Table -->
+ #
+<p align="center">
+   <i><b>CONTRIBUTION TABLE</b></i>
+</p>
+<p align="center">
+
+![snake gif](https://raw.githubusercontent.com/YoshithaRathnayake/YoshithaRathnayake/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/YoshithaRathnayake/YoshithaRathnayake/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</p>
  
  
  
