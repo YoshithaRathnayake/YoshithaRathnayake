@@ -37,8 +37,22 @@
 
 > This is ***My Personal Portfolio***.
 
+<!-- Information from JavaScript Code -->
+#
+```javascript
+const info = {
+    fullName: 'Yoshitha Rathnayake',
+    nickname: 'Yoshitha',
+    age: 14,
+    gender: 'Male',
+    occupation: 'Student',
+    grade: '9D',
+    interestedIn: ['Developing', 'Designing', 'Programming', 'Editing', 'Photographing', 'Hacking', 'Contributing'],
+    currentlyLearning: 'Everything',
+};
+```
  
-
+#
 <!-- About Me -->
 # About Me  ![1f600](https://user-images.githubusercontent.com/97069900/154191851-6317b49b-1068-4f96-abb7-7935f2d7c466.png)
 
