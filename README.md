@@ -308,9 +308,13 @@ const info = {
  
 <!-- Visitors Count --> 
 
-**Visitors Count**
-
-![VisitorCount](https://profile-counter.glitch.me/{YoshithaRathnayake}/count.svg)
+<div align="center">
+  
+  **Visitors Count**
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{YoshithaRathnayake}/count.svg)
+  
+</div>
 
  
 <!---
