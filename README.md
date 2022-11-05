@@ -271,7 +271,6 @@ const info = {
 </p>
 
 [![@yoshitha_rathnayake's Holopin board](https://holopin.io/api/user/board?user=yoshitha_rathnayake)](https://holopin.io/@yoshitha_rathnayake)
-[![@yoshitharathnayake's Holopin board](https://holopin.me/yoshitharathnayake)](https://holopin.io/@yoshitharathnayake)
 
  
  
