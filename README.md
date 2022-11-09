@@ -31,7 +31,7 @@
 <a href="https://skyline.github.com/yoshitharathnayake/2022">Github Skyline<a>
   
 <!-- Personal Portfolio Website -->
-<a href="https://www.yoshitha.tk">www.Yoshitha.tk<a>
+<a href="https://www.yoshitha.tk">WWW.YOSHITHA.TK<a>
  
  
 <!-- First Paragraph -->
