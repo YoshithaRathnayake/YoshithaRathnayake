@@ -40,7 +40,7 @@
 
 > This is ***My Personal Portfolio***.
   
-> [<b><i>My Personal Portfolio Website</i></b>](https://www.yoshitha.tk)  
+> My Personal Portfolio Website is published at[<b><i> WWW.YOSHITHA.TK</i></b>](https://www.yoshitha.tk)  
 
 <!-- Information from JavaScript Code -->
 #
