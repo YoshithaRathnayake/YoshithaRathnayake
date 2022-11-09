@@ -292,7 +292,7 @@ const info = {
   
 > Email :- <a href="mailto:YoshithaRathnayake@yoshitha.tk"><b><i>YoshithaRathnayake@yoshitha.tk</i></b></a>
   
-> My Personal Portfolio Website :- [<b><i>www.Yoshitha.tk</i></b>](https://www.yoshitha.tk)   
+> My Personal Portfolio Website :- [<b><i>WWW.YOSHITHA.TK</i></b>](https://www.yoshitha.tk)   
  
 > Google Developer :- <a href="https://developers.google.com/u/YoshithaRathnayake"><b><i>g.dev/YoshithaRathnayake</i></b></a>
   
