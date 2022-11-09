@@ -25,7 +25,7 @@
 # ![GitHub followers](https://img.shields.io/github/followers/yoshitharathnayake?logo=GitHub&style=for-the-badge)
 
 <!-- GitHub Username -->
-<a href="https://github.com/YoshithaRathnayake">@YoshithaRathnayake<a>
+<a href="https://github.com/YoshithaRathnayake"><b><i>@YoshithaRathnayake</i></b><a>
  
 <!-- GitHub Skyline -->
 <a href="https://skyline.github.com/yoshitharathnayake/2022"><b><i>Github Skyline</i></b><a>
