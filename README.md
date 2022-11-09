@@ -28,7 +28,7 @@
 <a href="https://github.com/YoshithaRathnayake">@YoshithaRathnayake<a>
  
 <!-- GitHub Skyline -->
-<a href="https://skyline.github.com/yoshitharathnayake/2022">Github Skyline<a>
+<a href="https://skyline.github.com/yoshitharathnayake/2022"><b><i>Github Skyline</i></b><a>
   
 <!-- Personal Portfolio Website -->
 <a href="https://www.yoshitha.tk"><b><i>WWW.YOSHITHA.TK</i></b><a>
