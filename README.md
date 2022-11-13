@@ -89,7 +89,7 @@ const info = {
  
 > I hope to be a ***Computer Engineer*** 💻 in the future.
 
-> I am proud to say that I am a ***Sri Lankan, Buddhist and Antonian***.
+> I am proud to say that I am a ***Sri Lankan and Antonian***.
 
 
  
