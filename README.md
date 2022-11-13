@@ -65,21 +65,21 @@ const info = {
 
 > I am a ***Student, Developer, Designer, Programmer, Editor, Photographer, Videographer, Software Developer, Web Developer, Game Developer, Video Editor, Photo Editor, UI and UX Designer, Graphic Designer, Open Source Contributor, Hacker and a Badminton Player***.
 
-> I am ***14*** years old. 
+> I am ***14*** years old.
 
-> I am studing in <a href="https://www.sack.edu.lk/#gsc.tab=0"><b><i>St. Anthony's College Kandy.</i></b></a>
+> I am studing in <a href="https://www.sack.edu.lk/#gsc.tab=0"><b><i>St. Anthony's College Kandy</i></b></a> 🏫.
 
-> I am studying in ***Grade 9D*** in my school.
+> I am studying in ***Grade 9D*** in my school 🎓.
  
-> I am a <a href="https://developers.google.com/"><b><i>Developer of Google</i></b> </a> (<a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i> g.dev/YoshithaRathnayake </i></b></a>)
+> I am a <a href="https://developers.google.com/"><b><i>Developer of Google 👨‍💻</i></b></a> (<a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i> g.dev/YoshithaRathnayake</i></b></a>).
  
 > I am a member of <a href="https://medium.com/"><b><i>Medium</i></b></a> (<a href="https://yoshitharathnayake.medium.com/"><b><i> yoshitharathnayake.medium.com </i></b></a>)
 
-> My favourite subject is ***ICT***.
+> My favourite subject is ***ICT*** 💻.
 
-> I am observing ***Buddhism*** as my religion.
+> I am observing ***Buddhism*** ☸ as my religion.
 
-> I live in ***Kandy, Central Province, Sri Lanka***.
+> I live in ***Kandy, Central Province, Sri Lanka***. 
 
 > I am playing ***Badminton*** 🏸 and ***Cricket*** 🏏 in my school as my favourite sport.
 
@@ -89,7 +89,7 @@ const info = {
  
 > I hope to be a ***Computer Engineer*** 💻 in the future.
 
-> I am proud to say that I am a ***Sri Lankan and Antonian***.
+> I am proud to say that I am a ***Sri Lankan and Antonian*** 🦅 ❤️💙🖤.
 
 
  
