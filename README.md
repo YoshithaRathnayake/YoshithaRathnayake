@@ -1,4 +1,4 @@
-<!-- Auto Typing Name --> 
+<!-- Auto Typing Name -->
 <p align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=YOSHITHA+RATHNAYAKE&font=Fira%100Code&size=50&color=00ff62&center=true&width=580&height=70">
