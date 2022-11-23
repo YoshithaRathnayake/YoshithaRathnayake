@@ -192,24 +192,24 @@ const info = {
 # Contact Me  <img src="https://img.icons8.com/color/60/contact-card.png">
 
   
-> Phone Number :- <a href="tel:+94 72 825 9003"><b><i>+94 72 825 9003</i></b></a>
+> Telephone Number :- <a href="tel:+94 72 825 9003"><b><i title="Telephone Number">+94 72 825 9003</i></b></a>
   
-> Email :- <a href="mailto:YoshithaRathnayake@yoshitha.tk"><b><i>YoshithaRathnayake@yoshitha.tk</i></b></a>
+> Email :- <a href="mailto:YoshithaRathnayake@yoshitha.tk"><b><i title="Email">YoshithaRathnayake@yoshitha.tk</i></b></a>
   
-> Website :- [<b><i>WWW.YOSHITHA.TK</i></b>](https://www.yoshitha.tk)
+> Website :- [<b><i title="Personal Portfolio Website">WWW.YOSHITHA.TK</i></b>](https://www.yoshitha.tk)
   
 
  
 <!-- Follow Me -->
 #
 <div>
-<a href=" https://chat.whatsapp.com/KRqihLP7J7HEpM2dL6Zwt9" ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp Icon"/></a> <a href="https://t.me/joinchat/hP-WbTXCf185YTg1"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram Icon"/></a> <a href="https://github.com/YoshithaRathnayake"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub Icon"/></a> <a href="https://gitlab.com/YoshithaRathnayake"><img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab Icon"/></a> <a href="https://twitter.com/Yoshitha2008"><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="Twitter Icon"/></a> <a href="https://www.instagram.com/YoshithaRathnayake"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram Icon"/></a> <a href="https://www.linkedin.com/in/yoshitha-rathnayake"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn Icon"/></a> <a href="https://yoshitharathnayake.medium.com"><img src="https://img.icons8.com/ios-filled/48/ffffff/medium--v2.png" alt="Medium Icon"/></a>
+<a href=" https://chat.whatsapp.com/KRqihLP7J7HEpM2dL6Zwt9" ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp Icon" title="WhatsApp"/></a> <a href="https://t.me/joinchat/hP-WbTXCf185YTg1"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram Icon" title="Telegram"/></a> <a href="https://github.com/YoshithaRathnayake"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub Icon" title="GitHub"/></a> <a href="https://gitlab.com/YoshithaRathnayake"><img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab Icon" title="GitLab"/></a> <a href="https://twitter.com/Yoshitha2008"><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="Twitter Icon" title="Twitter"/></a> <a href="https://www.instagram.com/YoshithaRathnayake"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram Icon" title="Instagram"/></a> <a href="https://www.linkedin.com/in/yoshitha-rathnayake"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn Icon" title="LinkedIn"/></a> <a href="https://yoshitharathnayake.medium.com"><img src="https://img.icons8.com/ios-filled/48/ffffff/medium--v2.png" alt="Medium Icon" title="Medium"/></a>
 </div>
  
  
 #
 <!-- Visitors Count --> 
-<div align="center">
+<div align="center" title="Visitors Counter">
   
   **Visitors Count**
   
@@ -220,12 +220,12 @@ const info = {
 
 #
 <!-- Copyright -->
-<div align="center"><b>© 2022 <a href="www.yoshitha.tk">YOSHITHA RATHNAYAKE</a></b></div>
+<div align="center"><b>© 2022 <a href="www.yoshitha.tk" title="© 2022 YOSHITHA RATHNAYAKE">YOSHITHA RATHNAYAKE</a></b></div>
 
 ###
 <!-- Footer Links -->
 <div align="center">
-<a href="#yoshitha-rathnayake"><b>HOME</b></a> | <a href="#about-me--"><b>ABOUT</b></a> | <a href="#languages-and-tools---"><b>SKILLS</b></a> | <a href="#contribution-details-"><b>CONTRIBUTION</b></a> | <a href="#archivements-"><b>ACHIEVEMENTS</b></a> | <a href="#contact-me--"><b>CONTACT</b></a>
+<a href="#yoshitha-rathnayake" title="Home"><b>HOME</b></a> | <a href="#about-me--" title="About Me"><b>ABOUT</b></a> | <a href="#languages-and-tools---" title="Languages and Tools"><b>SKILLS</b></a> | <a href="#contribution-details-" title="Contribution Details"><b>CONTRIBUTION</b></a> | <a href="#archivements-" title="Achievements"><b>ACHIEVEMENTS</b></a> | <a href="#contact-me--" title="Contact Me"><b>CONTACT</b></a>
 </div>    
 
 
