@@ -229,7 +229,7 @@ const info = {
 </div>    
 
 
-<img width=100% title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=YOSHITHA_RATHNAYAKE&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+<img width=100% title="#YOSHITHA_RATHNAYAKE" alt="#YOSHITHA_RATHNAYAKE" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=YOSHITHA_RATHNAYAKE&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=72"/>
  
 <!---
 YoshithaRathnayake/YoshithaRathnayake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
