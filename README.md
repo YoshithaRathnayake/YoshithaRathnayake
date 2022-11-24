@@ -111,7 +111,11 @@ const info = {
 <p align="center">
  <b><i>CONTRIBUTION DETAILS</i></b>
 </p>
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=YoshithaRathnayake" align="center"></div>
+<div align="center" title="Contribution Details">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YoshithaRathnayake" align="center">
+
+</div>
 
 <!-- GitHub Stats -->
 #
