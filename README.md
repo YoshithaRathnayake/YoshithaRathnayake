@@ -2,7 +2,7 @@
 # <div align="center"><a href="www.yoshitha.tk">**YOSHITHA RATHNAYAKE**</a></div>
 
 <!-- Slogan -->
-<div align="center"><b>DEV</b>ELOPER | <b>DESIGN</b>ER | <b>PROGRAMM</b>ER | <b>EDIT</b>OR</div>
+<div align="center" title="Who am I?"><b>DEV</b>ELOPER | <b>DESIGN</b>ER | <b>PROGRAMM</b>ER | <b>EDIT</b>OR</div>
 
 #
 <!-- Image --> 
