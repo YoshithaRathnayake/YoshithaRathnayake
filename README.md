@@ -146,7 +146,7 @@ const info = {
    <i><b>CONTRIBUTION TABLE</b></i>
 </p>
 
-<div align="center">
+<div align="center title="Contribution Table">
 
 ![snake gif](https://raw.githubusercontent.com/YoshithaRathnayake/YoshithaRathnayake/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/YoshithaRathnayake/YoshithaRathnayake/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
