@@ -179,11 +179,12 @@ const info = {
 # Archivements <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/70/external-achievements-recruitment-agency-flaticons-flat-flat-icons-2.png">
 
 <!-- Badges -->
-<p align="center">
- <b><i>BADGES</i></b>
-</p>
+<p align="center" title="Hacktoberfest 2022 Holopin Badge Board">
+ <b><i>HACKTOBERFEST 2022 HOLOPIN BADGE BOARD</i></b>
 
 [![@yoshitha_rathnayake's Holopin board](https://holopin.io/api/user/board?user=yoshitha_rathnayake)](https://holopin.io/@yoshitha_rathnayake)
+
+</p>
 
  
  
