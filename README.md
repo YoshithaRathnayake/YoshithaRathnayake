@@ -23,7 +23,7 @@
 
 #
 <!-- Number of GitHub Followers -->
-# <div align="center">![GitHub followers](https://img.shields.io/github/followers/yoshitharathnayake?logo=GitHub&style=for-the-badge)</div>
+# <div align="center" title="GitHub Followers">![GitHub followers](https://img.shields.io/github/followers/yoshitharathnayake?logo=GitHub&style=for-the-badge)</div>
  
 
 <!-- Information from JavaScript Code -->
