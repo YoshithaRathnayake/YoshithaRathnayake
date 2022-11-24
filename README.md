@@ -50,15 +50,15 @@ const info = {
 
 > I am ***14*** years old.
 
-> I am studing in <a href="https://www.sack.edu.lk/#gsc.tab=0"><b><i>St. Anthony's College Kandy</i></b></a> 🏫
+> I am studing in <a href="https://www.sack.edu.lk" title="St. Anthony's College, Kandy><b><i>St. Anthony's College Kandy</i></b></a> 🏫
 
 > I am studying in ***Grade 9D*** in my school 🎓
  
-> I am a <a href="https://developers.google.com/"><b><i>Developer of Google 👨‍💻</i></b></a> (<a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i> g.dev/YoshithaRathnayake</i></b></a>)
+> I am a <a href="https://developers.google.com/"><b><i title="Google Developer">Developer of Google 👨‍💻</i></b></a> (<a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i> g.dev/YoshithaRathnayake</i></b></a>)
  
-> I am a ***Software Engineer*** 👨‍💻 at <a href="https://sefglobal.org">***Sustainable Education Foundation***</a>
+> I am a ***Software Engineer*** 👨‍💻 at <a href="https://sefglobal.org" title="SEF">***Sustainable Education Foundation***</a>
   
-> I am a member 🖥 of <a href="https://acf.sack.edu.lk"><b><i>Antonian Computer Fraternity</i></b></a>
+> I am a member 🖥 of <a href="https://acf.sack.edu.lk"><b><i title="ACF">Antonian Computer Fraternity</i></b></a>
 
 > My favourite subject is ***ICT*** 💻
 
@@ -74,7 +74,7 @@ const info = {
 
 > I am proud to say that I am a ***Sri Lankan*** and ***Antonian*** 🦅 ❤️💙🖤
   
-> Wanna know me better? Use my website, published at ***www.yoshitha.tk***
+> Wanna know me better? Use my website, published at <span title="My Personal Portfolio Website">***www.yoshitha.tk***</span>
 
 
 #
