@@ -132,16 +132,16 @@ const info = {
 </p>
  
 <!-- Trophies -->
- #
+#
 <p align="center">
    <i><b>TROPHIES</b></i>
 </p>
-<p align="center">
+<p align="center" title="Trophies">
 <img width="80%" src="https://github-profile-trophy.vercel.app/?username=YoshithaRathnayake&theme=darkhub" />
 </p>
 
 <!-- Contribution Table -->
- #
+#
 <p align="center">
    <i><b>CONTRIBUTION TABLE</b></i>
 </p>
@@ -153,7 +153,7 @@ const info = {
 </div>
  
 <!-- Most Worked Repositories -->
- #
+#
  <p align="center">
    <i><b>MOST WORKED REPOSITORIES</b></i>
 </p>
