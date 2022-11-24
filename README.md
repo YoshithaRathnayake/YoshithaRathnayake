@@ -106,7 +106,7 @@ const info = {
 <p align="center">
  <b><i>MOST USED LANGUAGES</i></b>
 </p>
-<div align="center" title="Most Used Languages">
+<div align="center" title="Yoshitha Rathnayake's Most Used Languages">
 
 <img alt="mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshitharathnayake&layout=compact&count_private=true" />
 
@@ -117,7 +117,7 @@ const info = {
 <p align="center">
  <b><i>CONTRIBUTION DETAILS</i></b>
 </p>
-<div align="center" title="Contribution Details">
+<div align="center" title="Yoshitha Rathnayake's Contribution Details">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=YoshithaRathnayake" align="center">
 
@@ -128,7 +128,7 @@ const info = {
 <p align="center">
  <b><i>GITHUB STATS</i></b>
 </p>
-<div align="center" title="GitHub Stats">
+<div align="center" title="Yoshitha Rathnayake's GitHub Stats">
 
 <img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=yoshitharathnayake&show_icons=true&count_private=true"/>
 
@@ -139,7 +139,7 @@ const info = {
 <p align="center">
    <i><b>CONTRIBUTION GRAPH</b></i>
 </p>
-<p align="center" title="Contribution Graph">
+<p align="center" title="Yoshitha Rathnayake's Contribution Graph">
 
 <a href="https://github.com/YoshithaRathnayake/github-readme-activity-graph"><img alt="Yoshitha's Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=YoshithaRathnayake&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 
@@ -150,7 +150,7 @@ const info = {
 <p align="center">
    <i><b>TROPHIES</b></i>
 </p>
-<p align="center" title="Trophies">
+<p align="center" title="Yoshitha Rathnayake's Trophies">
 
 <img width="80%" src="https://github-profile-trophy.vercel.app/?username=YoshithaRathnayake&theme=darkhub"/>
 
@@ -162,7 +162,7 @@ const info = {
    <i><b>CONTRIBUTION TABLE</b></i>
 </p>
 
-<div align="center title="Contribution Table">
+<div align="center title="Yoshitha Rathnayake's Contribution Table">
 
 ![snake gif](https://raw.githubusercontent.com/YoshithaRathnayake/YoshithaRathnayake/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/YoshithaRathnayake/YoshithaRathnayake/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
@@ -175,7 +175,7 @@ const info = {
 </p>
 
 #
-<div align="center" title="Most Worked Repositories">
+<div align="center" title="Yoshitha Rathnayake's Most Worked Repositories">
 
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=YOSHITHA-WEBSITE&theme=dark)](https://github.com/YoshithaRathnayake/YOSHITHA-WEBSITE) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=NEW-YOSHITHA-WEBSITE&theme=dark)](https://github.com/YoshithaRathnayake/https://github.com/YoshithaRathnayake/NEW-YOSHITHA-WEBSITE) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -194,7 +194,7 @@ const info = {
 # Archivements <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/70/external-achievements-recruitment-agency-flaticons-flat-flat-icons-2.png">
 
 <!-- Badges -->
-<p align="center" title="Hacktoberfest 2022 Holopin Badge Board">
+<p align="center" title="Yoshitha Rathnayake's Hacktoberfest 2022 Holopin Badge Board">
  <b><i>HACKTOBERFEST 2022 HOLOPIN BADGE BOARD</i></b>
 
 [![@yoshitha_rathnayake's Holopin board](https://holopin.io/api/user/board?user=yoshitha_rathnayake)](https://holopin.io/@yoshitha_rathnayake)
