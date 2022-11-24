@@ -27,6 +27,8 @@
  
 
 <!-- Information from JavaScript Code -->
+<div title="Personal Information">
+
 ```javascript
 const info = {
     Name: "Yoshitha Rathnayake",
@@ -35,10 +37,13 @@ const info = {
     Gender: "Male",
     Education: "St. Anthony's College, Kandy",
     Grade: "9D",
+    Email: "YoshithaRathnayake@yoshitha.tk",
     InterestedIn: ["Developing", "Designing", "Programming", "Editing", "Photographing", "Hacking", "Contributing"],
 };
 ```
- 
+</div>
+
+
 #
 <!-- About Me -->
 # About Me  <img src="https://img.icons8.com/fluency/60/info.png">
@@ -50,7 +55,7 @@ const info = {
 
 > I am ***14*** years old.
 
-> I am studing in <a href="https://www.sack.edu.lk" title="St. Anthony's College, Kandy><b><i>St. Anthony's College Kandy</i></b></a> 🏫
+> I am studing in <a href="https://www.sack.edu.lk" title="St. Anthony's College, Kandy"><b><i>St. Anthony's College Kandy</i></b></a> 🏫
 
 > I am studying in ***Grade 9D*** in my school 🎓
  
