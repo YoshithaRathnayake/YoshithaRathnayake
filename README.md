@@ -39,6 +39,7 @@ const info = {
     Education: "St. Anthony's College, Kandy",
     Grade: "9D",
     Email: "YoshithaRathnayake@yoshitha.tk",
+    Hobies: ["Gardening", "Listen to musics", "Collecting stamps"],
     InterestedIn: ["Developing", "Designing", "Programming", "Editing", "Photographing", "Hacking", "Contributing"],
 };
 ```
