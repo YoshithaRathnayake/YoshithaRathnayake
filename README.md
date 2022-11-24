@@ -125,7 +125,7 @@ const info = {
 <p align="center">
    <i><b>CONTRIBUTION GRAPH</b></i>
 </p>
-<p align="center">
+<p align="center" title="Contribution Graph">
 
 <a href="https://github.com/YoshithaRathnayake/github-readme-activity-graph"><img alt="Yoshitha's Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=YoshithaRathnayake&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 
@@ -137,7 +137,9 @@ const info = {
    <i><b>TROPHIES</b></i>
 </p>
 <p align="center" title="Trophies">
-<img width="80%" src="https://github-profile-trophy.vercel.app/?username=YoshithaRathnayake&theme=darkhub" />
+
+<img width="80%" src="https://github-profile-trophy.vercel.app/?username=YoshithaRathnayake&theme=darkhub"/>
+
 </p>
 
 <!-- Contribution Table -->
