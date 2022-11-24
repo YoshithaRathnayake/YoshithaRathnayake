@@ -82,14 +82,14 @@ const info = {
 # Languages and Tools   ![1f4bb](https://user-images.githubusercontent.com/97069900/154191116-32d123fe-5228-400e-a78b-c23add78bee2.png)
 
 ## Languages:
-<p align="left">
+<p align="left" title="Languages">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,c,cpp,cs,java,jquery,php,ts,vue,react" height="45px"/>
   </a>
 </p>
 
 ## Tools:
-<p align="left">
+<p align="left" title="Tools">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,idea,atom,androidstudio,arduino,flutter,ps,ae,pr,au,ai,xd,figma,blender,docker,linux,wordpress,powershell" height="100px"/>
   </a>
