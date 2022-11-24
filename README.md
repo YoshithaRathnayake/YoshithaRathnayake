@@ -18,7 +18,7 @@
 
 #
 <!-- GitHub Username, Skyline and Website -->
-<div align="center"><a href="https://github.com/YoshithaRathnayake"><b><i>@YoshithaRathnayake</i></b><a> | <a href="https://skyline.github.com/yoshitharathnayake/2022"><b><i>SKYLINE</i></b><a> | <a href="https://www.yoshitha.tk"><b><i>WWW.YOSHITHA.TK</i></b><a></div>
+<div align="center"><a href="https://github.com/YoshithaRathnayake" title="GitHub Username"><b><i>@YoshithaRathnayake</i></b><a> | <a href="https://skyline.github.com/yoshitharathnayake/2022" title="GitHub Skyline"><b><i>SKYLINE</i></b><a> | <a href="https://www.yoshitha.tk" title="Personal Portfolio Website"><b><i>WWW.YOSHITHA.TK</i></b><a></div>
 
 
 #
