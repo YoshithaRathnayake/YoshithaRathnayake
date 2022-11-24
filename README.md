@@ -152,7 +152,7 @@ const info = {
 </p>
 <p align="center" title="Yoshitha Rathnayake's Trophies">
 
-<img width="80%" src="https://github-profile-trophy.vercel.app/?username=YoshithaRathnayake&theme=darkhub"/>
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=YoshithaRathnayake&theme=darkhub"/>
 
 </p>
 
