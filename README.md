@@ -100,11 +100,17 @@ const info = {
 <!-- Contribution Details -->
 #
 # Contribution Details <img src="https://img.icons8.com/fluency/60/analytics.png">
+
 <!-- Most used languages -->
+
 <p align="center">
  <b><i>MOST USED LANGUAGES</i></b>
 </p>
-<div align="center"><img alt="mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshitharathnayake&layout=compact&count_private=true" /></div>
+<div align="center" title="Most Used Languages">
+
+<img alt="mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshitharathnayake&layout=compact&count_private=true" />
+
+</div>
 
 <!-- Contribution Details -->
 #
