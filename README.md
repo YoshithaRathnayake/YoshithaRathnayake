@@ -248,7 +248,7 @@ const info = {
 ###
 <!-- Footer Links -->
 <div align="center">
-<a href="#yoshitha-rathnayake" title="Home"><b>HOME</b></a> | <a href="#about-me--" title="About Me"><b>ABOUT</b></a> | <a href="#languages-and-tools---" title="Languages and Tools"><b>SKILLS</b></a> | <a href="#contribution-details-" title="Contribution Details"><b>CONTRIBUTION</b></a> | <a href="#archivements-" title="Achievements"><b>ACHIEVEMENTS</b></a> | <a href="#contact-me--" title="Contact Me"><b>CONTACT</b></a>
+<a href="#" title="Home"><b>HOME</b></a> | <a href="#about-me--" title="About Me"><b>ABOUT</b></a> | <a href="#languages-and-tools---" title="Languages and Tools"><b>SKILLS</b></a> | <a href="#contribution-details-" title="Contribution Details"><b>CONTRIBUTION</b></a> | <a href="#archivements-" title="Achievements"><b>ACHIEVEMENTS</b></a> | <a href="#contact-me--" title="Contact Me"><b>CONTACT</b></a>
 </div>    
 
 
