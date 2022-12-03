@@ -192,6 +192,8 @@ const info = {
 
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=CALCULATOR-WEBSITE&theme=dark)](https://github.com/YoshithaRathnayake/CALCULATOR-WEBSITE) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=YoshithaRathnayake&theme=dark)](https://github.com/YoshithaRathnayake/YoshithaRathnayake) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+                                                                          
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=DOFA-Peradeniya&theme=dark)](https://github.com/YoshithaRathnayake/DOFA-Peradeniya)                                                                       
 
 </div>
  
