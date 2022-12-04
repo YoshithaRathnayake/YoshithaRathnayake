@@ -79,7 +79,7 @@ const info = {
 
 > I am playing ***Badminton*** 🏸 and ***Cricket*** 🏏 in my school as my favourite sports
 
-> I am a ***Lamborghini*** Car lover
+> I am a ***Lamborghini*** 🏎 Car lover
   
 > Loving to listen for ***New Beautiful Songs*** 🎶
  
