@@ -152,7 +152,15 @@ const info = {
 </p>
 <p align="center" title="Yoshitha Rathnayake's Contribution Graph">
 
+<!--
 <a href="https://github.com/YoshithaRathnayake/github-readme-activity-graph"><img alt="Yoshitha's Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=YoshithaRathnayake&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+-->
+  
+<div align="center">
+  
+  ![image](https://user-images.githubusercontent.com/97069900/205493772-015f2b51-95d3-4158-8295-86ae20d322bd.png)
+  
+</div>
 
 </p>
  
