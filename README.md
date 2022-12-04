@@ -80,6 +80,8 @@ const info = {
 > I am playing ***Badminton*** 🏸 and ***Cricket*** 🏏 in my school as my favourite sports
 
 > I am a ***Lamborghini*** Car lover
+  
+> Loving to listen for ***New Beautiful Songs*** 🎶
  
 > I hope to be a ***Computer Engineer*** 💻 in the future
 
