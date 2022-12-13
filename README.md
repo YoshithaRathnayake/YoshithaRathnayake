@@ -87,6 +87,8 @@ const info = {
 
 > I am proud to say that I am a ***Sri Lankan*** and ***Antonian*** 🦅 ❤️💙🖤
   
+> Watch my <a href="https://github.com/YoshithaRathnayake?tab=repositories" title="My Repositories">***Repositories***</a> 👨‍💻 here
+  
 > Wanna know me better? Use my website, published at <span title="My Personal Portfolio Website">***www.yoshitha.tk***</span>
 
 
