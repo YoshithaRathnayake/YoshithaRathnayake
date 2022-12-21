@@ -162,7 +162,7 @@ const info = {
   
 <div align="center" title="Yoshitha Rathnayake's Contribution Graph">
   
-  ![image](https://user-images.githubusercontent.com/97069900/208831661-ef08c2c3-288f-4e03-987d-7df32cf002fb.png)
+  ![Contribution Graph](https://user-images.githubusercontent.com/97069900/208967268-bb7cd15a-f147-445a-aa19-679461210655.jpg)
   
 </div>
 
