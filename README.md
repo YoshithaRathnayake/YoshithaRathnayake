@@ -161,7 +161,7 @@ const info = {
 -->
   
 <div align="center" title="Yoshitha Rathnayake's Contribution Graph">
-  <img src="images/GitHub Contribution Graph.png" alt="Yoshitha Rathnayake's Contribution Graph">
+  <img src="images/GitHub Contribution Graph.png" alt="Yoshitha Rathnayake's Contribution Graph" height="400px">
 </div>
 
 </p>
