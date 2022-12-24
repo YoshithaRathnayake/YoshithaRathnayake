@@ -161,9 +161,7 @@ const info = {
 -->
   
 <div align="center" title="Yoshitha Rathnayake's Contribution Graph">
-  
-  ![GitHub Contribution Graph](https://user-images.githubusercontent.com/97069900/209429398-9a681b43-d97f-4dfb-846a-be6d91b1b516.png)
-
+  <img src="images/GitHub Contribution Graph.png" alt="Yoshitha Rathnayake's Contribution Graph">
 </div>
 
 </p>
