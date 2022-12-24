@@ -162,8 +162,8 @@ const info = {
   
 <div align="center" title="Yoshitha Rathnayake's Contribution Graph">
   
-  ![Contribution Graph](https://user-images.githubusercontent.com/97069900/208967268-bb7cd15a-f147-445a-aa19-679461210655.jpg)
-  
+  ![GitHub Contribution Graph](https://user-images.githubusercontent.com/97069900/209429398-9a681b43-d97f-4dfb-846a-be6d91b1b516.png)
+
 </div>
 
 </p>
