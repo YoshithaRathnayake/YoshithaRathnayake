@@ -162,7 +162,7 @@ const info = {
   
 <div align="center" title="Yoshitha Rathnayake's Contribution Graph">
   
-  <img src="images/GitHub Contribution Graph.png">
+  <img src="images/GitHub Contribution Graph.png" alt="Yoshitha Rathnayake's GitHub Contribution Graph">
   
 </div>
 
