@@ -16,7 +16,7 @@
 <!-- Auto Typing About -->
 <div align="center" title="Who am I?"> 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=++++Hi,++I'm++YOSHITHA++RATHNAYAKE;I'm+a+Student;I'm+a+Developer;I'm+a+Designer;I'm+a+Programmer;I'm+an+Editor;I'm+a+Photographer;And+I'm+a+Videographer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=++++Hi,👋++I'm++YOSHITHA++RATHNAYAKE;I'm+a+Student;I'm+a+Developer;I'm+a+Designer;I'm+a+Programmer;I'm+an+Editor;I'm+a+Photographer;And+I'm+a+Videographer)](https://git.io/typing-svg)
 
 </div>
 
