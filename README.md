@@ -10,7 +10,7 @@
 
 #
 <!-- Image --> 
-# <div align="center"><img src="images/Yoshitha Rathnayake 2.png" height="300px" alt="Yoshitha Rathnayake" title="Yoshitha Rathnayake | 13 Years Birthday"></div>
+# <div align="center"><a href="https://www.yoshitha.tk"><img src="images/Yoshitha Rathnayake 2.png" height="300px" alt="Yoshitha Rathnayake" title="Yoshitha Rathnayake | 13 Years Birthday"></a></div>
 
 
 <!-- Auto Typing About -->
