@@ -224,6 +224,16 @@ const info = {
 
 </p>
 
+
+<!-- Cards -->
+
+#
+<p align="center" title="Yoshitha Rathnayake's Hacktoberfest 2022 Holopin Badge Board">
+ <b><i>DEV CARD</i></b>
+ <div align="center">
+   <a href="https://app.daily.dev/YoshithaRathnayake"><img src="https://api.daily.dev/devcards/d355306b4e424033aee4d43be1ade29a.png?r=9bn" width="400" alt="YOSHITHA RATHNAYAKE's Dev Card"/></a>
+ </div>
+</p>
  
  
 <!-- Contact Me -->
