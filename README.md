@@ -159,13 +159,14 @@ const info = {
 
 
 <a href="https://github.com/YoshithaRathnayake/github-readme-activity-graph"><img alt="Yoshitha's Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=YoshithaRathnayake&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
--->
+
   
 <div align="center" title="Yoshitha Rathnayake's Contribution Graph">
   <img src="images/GitHub Contribution Graph.png" alt="Yoshitha Rathnayake's GitHub Contribution Graph" title="Yoshitha Rathnayake's GitHub Contribution Graph" height="400px">
 </div>
 
 </p>
+-->
  
 <!-- Trophies -->
 #
