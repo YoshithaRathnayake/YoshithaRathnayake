@@ -150,13 +150,14 @@ const info = {
 </div>
 
 <!-- Contribution Graph -->
+<!--
 #
 <p align="center">
    <i><b>CONTRIBUTION GRAPH</b></i>
 </p>
 <p align="center" title="Yoshitha Rathnayake's Contribution Graph">
 
-<!--
+
 <a href="https://github.com/YoshithaRathnayake/github-readme-activity-graph"><img alt="Yoshitha's Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=YoshithaRathnayake&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 -->
   
@@ -268,7 +269,7 @@ const info = {
 
 #
 <!-- Copyright -->
-<div align="center"><b>© 2022 <a href="www.yoshitha.tk" title="© 2022 YOSHITHA RATHNAYAKE">YOSHITHA RATHNAYAKE</a></b></div>
+<div align="center"><b>© 2023 <a href="www.yoshitha.tk" title="© 2022 YOSHITHA RATHNAYAKE">YOSHITHA RATHNAYAKE</a></b></div>
 
 ###
 <!-- Footer Links -->
