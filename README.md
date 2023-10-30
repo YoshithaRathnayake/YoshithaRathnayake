@@ -59,7 +59,7 @@ const info = {
 
 > I am ***14*** years old.
 
-> I am studing in <a href="https://www.sack.edu.lk" title="St. Anthony's College, Kandy"><b><i>St. Anthony's College Kandy</i></b></a> 🏫
+> I am studing in <a href="https://www.sack.edu.lk" title="St. Anthony's College, Kandy"><b><i>St. Anthony's College Kandy.</i></b></a> 🏫
 
 > I am studying in ***Grade 9D*** in my school 🎓.
  
