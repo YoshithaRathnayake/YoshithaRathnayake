@@ -1,5 +1,5 @@
 <!-- Main Heading -->
-# <div align="center"><a href="www.yoshitha.tk" title="#YOSHITHA_RATHNAYAKE">**YOSHITHA RATHNAYAKE**</a></div>
+# <div align="center"><a href="www.yoshitha.tk" title="#YOSHITHA_RATHNAYAKE">** YOSHITHA | DEVELOPER**</a></div>
 
 <!-- Slogan -->
 <div align="center">
