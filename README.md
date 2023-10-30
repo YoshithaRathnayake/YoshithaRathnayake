@@ -65,7 +65,7 @@ const info = {
  
 > I am a <a href="https://developers.google.com/"><b><i title="Google Developer">Developer of Google 👨‍💻</i></b></a> (<a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i> g.dev/YoshithaRathnayake</i></b></a>).
  
-> Volunteering as a <a href="https://sef.discourse.group/u/YoshithaRathnayake" title="SEF Hive">***Software Engineer***</a> 👨‍💻 at <a href="https://sefglobal.org" title="SEF">***Sustainable Education Foundation***</a>
+> Volunteering as a <a href="https://sef.discourse.group/u/YoshithaRathnayake" title="SEF Hive">***Software Engineer***</a> 👨‍💻 at <a href="https://sefglobal.org" title="SEF">***Sustainable Education Foundation***.</a>
   
 > I am a member 🖥 of <a href="https://acf.sack.edu.lk"><b><i title="ACF">Antonian Computer Fraternity</i></b></a>
 
