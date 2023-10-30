@@ -218,9 +218,9 @@ const info = {
 
 <!-- Badges -->
 <p align="center" title="Yoshitha Rathnayake's Hacktoberfest 2022 Holopin Badge Board">
- <b><i>HACKTOBERFEST 2022 HOLOPIN BADGE BOARD</i></b>
+ <b><i>HACKTOBERFEST HOLOPIN BADGE BOARD</i></b>
 
-[![@yoshitha_rathnayake's Holopin board](https://holopin.io/api/user/board?user=yoshitha_rathnayake)](https://holopin.io/@yoshitha_rathnayake)
+[![An image of @yoshitha_rathnayake's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yoshitha_rathnayake)](https://holopin.io/@yoshitha_rathnayake)
 
 </p>
 
