@@ -35,13 +35,14 @@
 ```javascript
 const info = {
     Name: "Yoshitha Rathnayake",
-    Age: "14 years",
+    Age: "15 years",
     Location: "Kandy, Sri Lanka",
     Gender: "Male",
     Education: "St. Anthony's College, Kandy",
-    Grade: "9D",
+    Grade: "10-D",
     Email: "YoshithaRathnayake@yoshitha.tk",
-    Hobies: ["Gardening", "Listen to musics", "Collecting stamps"],
+    Jobs: "Software Engineering at Sustainable Education Foundation (SEF)",
+    Hobbies: ["Gardening", "Listen to musics", "Collecting stamps"],
     InterestedIn: ["Developing", "Designing", "Programming", "Editing", "Photographing", "Hacking", "Contributing"],
 };
 ```
@@ -53,39 +54,39 @@ const info = {
 # About Me  <img src="https://img.icons8.com/fluency/60/info.png">
 
 
-> Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20px"> I am ***Yoshitha Rathnayake***
+> Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20px"> I am ***Yoshitha Rathnayake***.
 
-> I am a **Student**, **Dev**eloper, **Design**er, **Programm**er, **Edit**or, **Photo**grapher, **Open Source** Contributor, **Hack**er and a **Badminton** and **Cricket** Player
+> I am a **Student**, **Dev**eloper, **Design**er, **Programm**er, **Edit**or, **Photo**grapher, **Open Source** Contributor, **Hack**er and a **Badminton** and **Cricket** Player.
 
-> I am ***14*** years old.
+> I am ***15*** years old.
 
 > I am studing in <a href="https://www.sack.edu.lk" title="St. Anthony's College, Kandy"><b><i>St. Anthony's College Kandy</i></b></a> 🏫.
 
-> I am studying in ***Grade 9D*** in my school 🎓.
+> I am studying in ***Grade 10-D*** in my school 🎓.
  
 > I am a <a href="https://developers.google.com/"><b><i title="Google Developer">Developer of Google 👨‍💻</i></b></a> (<a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i> g.dev/YoshithaRathnayake</i></b></a>).
  
-> Volunteering as a <a href="https://sef.discourse.group/u/YoshithaRathnayake" title="SEF Hive">***Software Engineer***</a> 👨‍💻 at <a href="https://sefglobal.org" title="SEF">***Sustainable Education Foundation***.</a>
+> Volunteering as a <a href="https://sef.discourse.group/u/YoshithaRathnayake" title="SEF Hive">***Software Engineer***</a> 👨‍💻 at <a href="https://sefglobal.org" title="SEF">***Sustainable Education Foundation (SEF)***</a>.
   
-> I am a member 🖥 of <a href="https://acf.sack.edu.lk"><b><i title="ACF">Antonian Computer Fraternity.</i></b></a>
+> I am a member 🖥 of <a href="https://acf.sack.edu.lk"><b><i title="ACF">Antonian Computer Fraternity</i></b></a>.
 
-> My favourite subject is ***ICT*** 💻
+> My favourite subject is ***ICT*** 💻.
 
-> I am observing ***Buddhism*** ☸ as my religion
+> I am observing ***Buddhism*** ☸ as my religion.
 
-> I live in ***Kandy, Central Province, Sri Lanka***
+> I live in ***Kandy, Central Province, Sri Lanka***.
 
-> I am playing ***Badminton*** 🏸 and ***Cricket*** 🏏 in my school as my favourite sports
+> I am playing ***Badminton*** 🏸 and ***Cricket*** 🏏 in my school as my favourite sports.
 
-> I am a ***Lamborghini*** 🏎 Car lover
+> I am a ***Lamborghini*** 🏎 Car lover.
   
-> Loving to listen for ***New Beautiful Songs*** 🎶
+> Loving to listen for ***New Trending Songs*** 🎶.
  
-> I hope to be a ***Computer Engineer*** 💻 in the future
+> I hope to be a ***Computer Engineer*** 💻 in the future.
 
-> I am proud to say that I am a ***Sri Lankan*** and ***Antonian*** 🦅 ❤️💙🖤
+> I am proud to say that I am a ***Sri Lankan*** and ***Antonian*** 🦅 ❤️💙🖤.
   
-> Watch my <a href="https://github.com/YoshithaRathnayake?tab=repositories" title="My Repositories">***Repositories***</a> <span title="56 Repositories">`59`</span> 👨‍💻 here
+> Watch my <a href="https://github.com/YoshithaRathnayake?tab=repositories" title="My Repositories">***Repositories***</a> <span title="56 Repositories">`62`</span> 👨‍💻 here.
   
 > Wanna know me better? Use my website, published at <span title="My Personal Portfolio Website">***www.yoshitha.tk***</span>
 
