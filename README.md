@@ -225,8 +225,8 @@ const info = {
 
 </p>
 
-<!-- Cards -->
 
+<!-- Cards -->
 #
 <p align="center" title="Yoshitha Rathnayake's Dev Card">
  <b><i>DEV CARD</i></b>
@@ -234,7 +234,17 @@ const info = {
    <a href="https://app.daily.dev/YoshithaRathnayake"><img src="https://api.daily.dev/devcards/d355306b4e424033aee4d43be1ade29a.png?r=9bn" width="400" alt="YOSHITHA RATHNAYAKE's Dev Card"/></a>
  </div>
 </p>
- 
+
+
+<!-- YoshithaRathnayake's GitHub Unwrapped 2023 -->
+#
+<p align="center" title="YoshithaRathnayake's GitHub Unwrapped 2023">
+ <b><i>GITHUB UNWRAPPED 2023</i></b>
+ <div align="center">
+   <a href="https://githubunwrapped.com/YoshithaRathnayake"><img src="images/YoshithaRathnayake-GitHubUnwrapped2023.jpeg" width="400" alt="YoshithaRathnayake's GitHub Unwrapped 2023"/></a>
+ </div>
+</p>
+
  
 <!-- Contact Me -->
 #
