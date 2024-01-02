@@ -281,7 +281,7 @@ const info = {
 
 #
 <!-- Copyright -->
-<div align="center"><b>© 2023 <a href="www.yoshitha.tk" title="© 2022 YOSHITHA RATHNAYAKE">YOSHITHA RATHNAYAKE</a></b></div>
+<div align="center"><b>© 2024 <a href="www.yoshitha.tk" title="© 2022 YOSHITHA RATHNAYAKE">YOSHITHA RATHNAYAKE</a></b></div>
 
 ###
 <!-- Footer Links -->
