@@ -68,7 +68,9 @@ const info = {
  
 > Volunteering as a <a href="https://sef.discourse.group/u/YoshithaRathnayake" title="SEF Hive">***Software Engineer***</a> 👨‍💻 at <a href="https://sefglobal.org" title="SEF">***Sustainable Education Foundation (SEF)***</a>.
   
-> I am a member 🖥 of <a href="https://acf.sack.edu.lk"><b><i title="ACF">Antonian Computer Fraternity</i></b></a>.
+> I am a Graphic Designer, Video Editor, Photo Editor and a Web Developer 🖥 in <a href="https://acf.sack.edu.lk"><b><i title="ACF">Antonian Computer Fraternity</i></b></a>.
+>
+> I am a Graphic Designer, Video Editor, Photo Editor and the Web Developer in Antonian Media Unit.
 
 > My favourite subject is ***ICT*** 💻.
 
