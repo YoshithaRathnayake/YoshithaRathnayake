@@ -8,7 +8,7 @@
 
 #
 <!-- Image --> 
-# <div align="center"><a href="https://www.yoshitha.tk"><img src="images/Yoshitha Rathnayake 3.png" height="300px" alt="Yoshitha Rathnayake" title="Yoshitha Rathnayake | 13 Years Birthday"></a></div>
+# <div align="center"><a href="https://www.yoshitha.tk"><img src="images/Portfolio Image.png" height="300px" alt="Yoshitha Rathnayake" title="Yoshitha Rathnayake | 13 Years Birthday"></a></div>
 
 
 <!-- Auto Typing About -->
