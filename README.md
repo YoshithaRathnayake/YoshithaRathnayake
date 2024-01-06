@@ -3,7 +3,7 @@
 
 <!-- Slogan -->
 <div align="center">
-  <span title="DEVELOPING"><b>DEV</b>ELOPER</span> | <span title="DESIGNING"><b>DESIGN</b>ER</span> | <span title="PROGRAMMING"><b>PROGRAMM</b>ER</span> | <span title="EDITING"><b>EDIT</b>OR</span>
+  <span title="DEVELOPING"><b>DEVELOP</b>ER</span> | <span title="DESIGNING"><b>DESIGN</b>ER</span> | <span title="PROGRAMMING"><b>PROGRAMM</b>ER</span> | <span title="EDITING"><b>EDIT</b>OR</span>
 </div>
 
 #
