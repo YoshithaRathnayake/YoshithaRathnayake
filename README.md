@@ -1,3 +1,8 @@
+<!-- YouTube Banner -->
+<div align="center">
+<a href="https://www.youtube.com/channel/UCiuDD_uA4v5PF2cr-3nTChA"><img src="images/GitHub Banner.jpg" alt="YouTube Channel" title="YouTube Channel Banner | Edited by Yoshitha Rathnayake"></a>
+</div>
+
 <!-- Main Heading -->
 # <div align="center"><a href="https://www.yoshitha.tk" title="#YOSHITHA_RATHNAYAKE">**YOSHITHA RATHNAYAKE**</a></div>
 
