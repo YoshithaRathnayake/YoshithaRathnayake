@@ -8,7 +8,7 @@
 
 <!-- Slogan -->
 <div align="center">
-  <span title="DEVELOPING"><b>DEVELOP</b>ER</span> | <span title="DESIGNING"><b>DESIGN</b>ER</span> | <span title="PROGRAMMING"><b>PROGRAMM</b>ER</span> | <span title="EDITING"><b>EDIT</b>OR</span>
+  <span title="DEVELOPING"><b>DEVELOP</b>ER</span> | <span title="DESIGNING"><b>DESIGN</b>ER</span> | <span title="PROGRAMMING"><b>PROGRAMM</b>ER</span> | <span title="EDITING"><b>EDIT</b>OR</span> | <span title="Streaming"><b>STREAM</b>ER</span>
 </div>
 
 #
@@ -48,7 +48,7 @@ const info = {
     Email: "YoshithaRathnayake@yoshitha.tk",
     Jobs: "Software Engineering at Sustainable Education Foundation (SEF)",
     Hobbies: ["Gardening", "Listen to musics", "Collecting stamps"],
-    InterestedIn: ["Developing", "Designing", "Programming", "Editing", "Photographing", "Hacking", "Contributing"],
+    InterestedIn: ["Developing", "Designing", "Programming", "Editing", "Photographing", "Videographing", "Hacking", "Contributing", "Streaming", "Freelancing"],
 };
 ```
 </div>
@@ -61,7 +61,7 @@ const info = {
 
 > Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20px"> I am ***Yoshitha Rathnayake***.
 
-> I am a **Student**, **Dev**eloper, **Design**er, **Programm**er, **Edit**or, **Photo**grapher, **Open Source** Contributor, **Hack**er and a **Badminton** and **Cricket** Player.
+> I am a **Student**, **Dev**eloper, **Design**er, **Programm**er, **Edit**or, **Photo**grapher, **Video**grapher, **Open Source** Contributor, **Hack**er, **Stream**er, **Freelance**r and a **Badminton** and **Cricket** Player.
 
 > I am ***15*** years old.
 
