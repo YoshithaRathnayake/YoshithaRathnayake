@@ -278,7 +278,6 @@ const info = {
 <a href="https://www.linkedin.com/in/yoshitha-rathnayake"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn Icon" title="LinkedIn"/></a> 
 <a href="https://yoshitharathnayake.medium.com"><img src="https://img.icons8.com/ios-filled/48/ffffff/medium--v2.png" alt="Medium Icon" title="Medium"/></a>
 <a href="https://www.youtube.com/@YoshithaRathnayake"><img src="https://img.icons8.com/color/48/youtube-play.png" alt="Youtube Icon"/></a>
-
 </div>
  
  
