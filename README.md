@@ -277,7 +277,7 @@ const info = {
 <a href="https://www.instagram.com/YoshithaRathnayake"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram Icon" title="Instagram"/></a> 
 <a href="https://www.linkedin.com/in/yoshitha-rathnayake"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn Icon" title="LinkedIn"/></a> 
 <a href="https://yoshitharathnayake.medium.com"><img src="https://img.icons8.com/ios-filled/48/ffffff/medium--v2.png" alt="Medium Icon" title="Medium"/></a>
-<a href="https://www.youtube.com/channel/UCiuDD_uA4v5PF2cr-3nTChA"><img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="Youtube Icon"/></a>
+<a href="https://www.youtube.com/channel/UCiuDD_uA4v5PF2cr-3nTChA"><img src="https://img.icons8.com/color/48/youtube-play.png" alt="Youtube Icon"/></a>
 
 </div>
  
