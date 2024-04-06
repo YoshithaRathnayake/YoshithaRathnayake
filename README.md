@@ -13,7 +13,7 @@
 
 #
 <!-- Image --> 
-# <div align="center"><a href="https://www.yoshitha.tk"><img src="images/Latest Portfolio Image.png" height="300px" alt="Yoshitha Rathnayake" title="Yoshitha Rathnayake | Edited by Yoshitha Rathnayake"></a></div>
+# <div align="center"><a href="https://www.yoshitha.tk"><img src="images/new profile picture for github.png" height="300px" alt="Yoshitha Rathnayake" title="Yoshitha Rathnayake | Edited by Yoshitha Rathnayake"></a></div>
 
 
 <!-- Auto Typing About -->
