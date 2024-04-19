@@ -67,7 +67,7 @@ const info = {
 
 > I am studing in <a href="https://www.sack.edu.lk" title="St. Anthony's College, Kandy"><b><i>St. Anthony's College Kandy</i></b></a> 🏫.
 
-> I am studying in ***Grade 10-D*** in my school 🎓.
+> I am studying in ***Grade 11-D*** in my school 🎓.
  
 > I am a <a href="https://developers.google.com/"><b><i title="Google Developer">Developer of Google 👨‍💻</i></b></a> (<a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i> g.dev/YoshithaRathnayake</i></b></a>).
  
@@ -93,7 +93,7 @@ const info = {
 
 > I am proud to say that I am a ***Sri Lankan*** and ***Antonian*** 🦅 ❤️💙🖤.
   
-> Watch my <a href="https://github.com/YoshithaRathnayake?tab=repositories" title="My Repositories">***Repositories***</a> <span title="56 Repositories">`62`</span> 👨‍💻 here.
+> Watch my <a href="https://github.com/YoshithaRathnayake?tab=repositories" title="My Repositories">***Repositories***</a> <span title="56 Repositories">`66`</span> 👨‍💻 here.
   
 > Wanna know me better? Use my website, published at <span title="My Personal Portfolio Website">***www.yoshitha.tk***</span>
 
