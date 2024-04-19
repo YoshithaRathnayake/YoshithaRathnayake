@@ -44,7 +44,7 @@ const info = {
     Location: "Kandy, Sri Lanka",
     Gender: "Male",
     Education: "St. Anthony's College, Kandy",
-    Grade: "10-D",
+    Grade: "11-D",
     Email: "YoshithaRathnayake@yoshitha.tk",
     Jobs: "Software Engineering at Sustainable Education Foundation (SEF)",
     Hobbies: ["Gardening", "Listen to musics", "Collecting stamps"],
